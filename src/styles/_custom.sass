@@ -2,14 +2,23 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 20%
+    right: 70%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
+    top: 21%
+    right: 10%
+  &-3
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
     top: 51%
-    right: 30%
-
+    right: 60%
+  &-4
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 51%
+    right: 20%
 
 @keyframes float1
   0%
@@ -17,3 +26,130 @@
 
   100%
     transform: translateY(0px)
+.titulo-principal.color-acento-contenido .titulo-principal__numero
+  span
+    color: $white
+span
+  &.color-primario
+    color: $color-primario
+  &.color-secundario
+    color: $color-secundario
+  &.color-acento-contenido
+    color: #9F0925
+  &.color-acento-botones
+    color: $color-acento-botones
+.bloque-texto-a.color-acento-contenido
+  background-color: #EA526F
+  &::before
+    background-color: #E8E8E8
+.bg-middle
+  position: relative
+  background-color: #dff6f9
+  &::before
+    content: ''
+    position: absolute
+    top: 0
+    left: 0
+    width: 100%
+    height: 30%
+    background-color: $color-acento-contenido
+  .contenido
+    position: relative
+    z-index: 1
+
+.slyder-e__actions
+  margin-top: 3rem
+
+.slyder__btn
+  margin-left: 5px
+  background-color: rgba($color-acento-botones, .6 )
+  i
+    color: $white
+  &:hover
+    background-color: rgba($color-acento-botones, 1 )
+.slyder-f__btn
+  i
+    color: $color-acento-botones
+.bg-card
+  // background-image: url(../assets/curso/temas/bg-tarjeta.svg)
+  background-repeat: no-repeat
+  background-position: center
+  background-size: cover
+.mn
+  margin: 0 -3rem
+.color-extra
+  border-color: #9F0925
+  i
+    color: #9F0925
+  &:before
+    background-color: #FBEBEF
+.titulo-segundo.color-extra:after
+  border-left-color: #9F0925 !important
+.tarjeta.color-secundario
+  p,h1,h2,h3,h4,h5,h6
+    color: $color-sistema-texto
+.tarjeta-clip
+  display: flex
+  justify-content: space-between
+  position: relative
+  img
+    position: absolute
+    top: 0
+    left: 20px
+  p
+    margin-left: 100px
+.titulo-icono
+  background-color: #9F0925
+  position: relative
+  display: inline-flex
+  border-radius: 50px
+  padding: 10px 20px
+
+  &::before
+    content: url('../assets/curso/temas/icono-titulo.svg')
+    position: absolute
+    top: 0
+    left: 0
+    width: 42px
+  &__texto
+    margin-left: 30px
+.tabs-a__tab
+  background-color: #d2d7e3
+.acordion__activo
+  background-color: #fad1d9 !important
+.tarjeta--red
+  background-color: #f5e6e9
+.crd_hover_txt
+  border-radius: 0.5rem
+  position: relative
+  padding: 0 !important
+  overflow: hidden !important
+  &:hover
+    .crd_hover_txt--body
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+      transform: translateY(0)
+
+  .crd_hover_txt--body
+    text-align: center
+    width: 100%
+    position: absolute
+    padding: 1.5rem
+    bottom: 0
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 3.85rem ))
+    background-color: #a7283f
+    h4, p
+      color: $white
+
+  @media (min-width:1200px) and (max-width:1400px)
+    .crd_hover_txt--body
+      p
+        font-size: 0.85em
+.titulo-segundo.color-acento-contenido:after
+  border-left-color: #a7283f
+.titulo-principal.color-acento-contenido .titulo-principal__numero
+  background-color: #a7283f
+.linea-tiempo-b__row:nth-child(odd) .linea-tiempo-b__content
+  text-align: left !important
+.linea-tiempo-b__icon
+  padding-top: 0 !important
