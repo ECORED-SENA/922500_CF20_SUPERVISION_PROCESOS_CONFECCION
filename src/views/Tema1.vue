@@ -28,6 +28,50 @@
     .titulo-icono.mb-4
         .titulo-icono__texto: h4.text-white.mb-0 Historia de la calidad
     p.mb-5(data-aos='fade-right') La manera como se ha venido verificando el cumplimiento de requisitos o especificaciones, ha tenido cambios a través de toda la historia, hasta el día de hoy. Las metodologías y las responsabilidades al interior de las empresas se han venido transformado y han pasado por varias etapas, como se puede ver a continuación:
+    .tarjeta.bg-card.p-5.mb-5
+      LineaTiempoC.color-acento-contenido(text-small)
+        .row(titulo="Paso 1")
+          .col-md-7.mb-4.mb-md-0
+            h4 Primera etapa: finales del siglo XIX
+            p A finales del siglo XIX después de la segunda revolución industrial, los procesos se estaban industrializando y ya existían cadenas de producción, al final de los procesos se hacía una revisión y se clasificaban los productos entre los que cumplían al 100% lo esperado, y los que no lo hacían. Esto significaba grandes pérdidas económicas, e incumplimiento en los compromisos de las entregas. La responsabilidad de la calidad recaía en los obreros.
+          .col-md-5: img(src='@/assets/curso/temas/tema1/12.png', alt='')
+        .row(titulo="Paso 2")
+          .col-md-7.mb-4.mb-md-0
+            h4 Segunda etapa: 1925 
+            p Después de la primera guerra mundial los procesos estaban más industrializados y complejos, se individualizaron las operaciones, las personas se especializaron más. Las fábricas de acuerdo con el mejoramiento de los equipos se volvieron más modernas, y hubo una reorganización interna en los cargos y responsabilidades. 
+              br
+              br
+              |Se nombraron supervisores y estos a su vez se encargaron de vigilar el cumplimiento de los requisitos de calidad. Los encargados o supervisores tenían la responsabilidad de que los productos quedaran bien, pero como tenían otras funciones, el tema de verificar el cumplimiento de los requisitos no lo ejecutaban a cabalidad. 
+          .col-md-5: img(src='@/assets/curso/temas/tema1/13.png', alt='')
+        .row(titulo="Paso 3")
+          .col-md-7.mb-4.mb-md-0
+            h4 Tercera etapa: 1935
+            p Se empieza a hacer control de calidad por inspección, control que ejercía responsablemente un designado. Se nombran los inspectores de calidad, y de alguna manera se separan las actividades de producción y calidad, se creía, y aún se creé que no es fácil producir rápido y bueno. La calidad y la productividad no deben de reñir.
+          .col-md-5: img(src='@/assets/curso/temas/tema1/14.png', alt='')
+        .row(titulo="Paso 4")
+          .col-md-7.mb-4.mb-md-0
+            h4 Cuarta etapa: 1945
+            p Después de la Segunda Guerra Mundial, se incorporó la estadística a los controles para tomar mejores decisiones y acciones de mejoramiento. Se utilizaron herramientas estadísticas como formatos, tablas y gráficas. Los avances tecnológicos ayudaron a esto, lo que permitió producir rápidamente, a bajo costo y con muy buena calidad. Debido a las secuelas de la guerra, la necesidad de hacer florecer las industrias inspiró mejores formas de trabajar. Asesores norteamericanos como Joshep Juran y Edwards Deming implementaron controles estadísticos de calidad en Japón, lo que ayudó en su reconstrucción. La calidad se integró a toda la cadena de producción con la metodología de mejoramiento continuo (kaisen).
+          .col-md-5: img(src='@/assets/curso/temas/tema1/15.png', alt='')
+        .row(titulo="Paso 5")
+          .col-md-7.mb-4.mb-md-0
+            h4 Calidad Total: 1970 
+            p Se vincula todo el personal de la organización a las actividades encaminadas a cumplir con las especificaciones del producto. Las inspecciones se realizan en toda la cadena de producción con el fin de detectar anomalías a tiempo, y poder tomar acciones en el momento oportuno. Los proveedores se integran a las responsabilidades, y los servicios.
+          .col-md-5: img(src='@/assets/curso/temas/tema1/16.png', alt='')
+    .titulo-icono.mb-4
+        .titulo-icono__texto: h4.text-white.mb-0 Procesos de Estandarización y Sistemas de Gestión de Calidad
+    .row.justify-content-center.mb-5.g-0
+      .col-lg-4.mb-lg-0.mb-3.col-8: img(src='@/assets/curso/temas/tema1/17.jpg', alt='')
+      .col-lg-8
+        div(style="background-color: #D2E1F1 ").p-4.h-100.d-flex.align-items-center
+          p.mb-0 A partir de los años ochenta los procesos y los productos se orientaron a cierta normalización y estandarización, esto significa que, mediante equipos y métodos de trabajo, se logra más simetría y homologación en los sistemas de producción, minimizando el riesgo de producir en los mismos modelos o referencias, diferencias en sus especificaciones, lo que quiere decir que no son de buena calidad. Para cumplir, es importante, llevar registros de las actividades y la normatividad y reglamentación que las rige, y al interior de las empresas crear unas cadenas que se encarguen de diseñar e implementar acciones, que orienten todas las fuerzas de trabajo, a esto último se le ha denominado #[b Sistemas de Gestión de Calidad.]
+    p.mb-5(data-aos='fade-right') En la medida en que el personal ha participado más en temas de calidad, se han presentado más beneficios. Inicialmente, se habló de controlar la calidad, luego de asegurarla y posteriormente se incorporó a las políticas, misión y visión de las organizaciones. Después se entendió como un sistema, incorporando toda la cadena, y hoy en día se está en niveles avanzados de cumplimiento de especificaciones (ver figura 1).
+    .row.justify-content-center.mb-5
+      .col-lg-8
+        .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+          h5
+          span
+
       
 </template>
 
