@@ -66,11 +66,18 @@
         div(style="background-color: #D2E1F1 ").p-4.h-100.d-flex.align-items-center
           p.mb-0 A partir de los años ochenta los procesos y los productos se orientaron a cierta normalización y estandarización, esto significa que, mediante equipos y métodos de trabajo, se logra más simetría y homologación en los sistemas de producción, minimizando el riesgo de producir en los mismos modelos o referencias, diferencias en sus especificaciones, lo que quiere decir que no son de buena calidad. Para cumplir, es importante, llevar registros de las actividades y la normatividad y reglamentación que las rige, y al interior de las empresas crear unas cadenas que se encarguen de diseñar e implementar acciones, que orienten todas las fuerzas de trabajo, a esto último se le ha denominado #[b Sistemas de Gestión de Calidad.]
     p.mb-5(data-aos='fade-right') En la medida en que el personal ha participado más en temas de calidad, se han presentado más beneficios. Inicialmente, se habló de controlar la calidad, luego de asegurarla y posteriormente se incorporó a las políticas, misión y visión de las organizaciones. Después se entendió como un sistema, incorporando toda la cadena, y hoy en día se está en niveles avanzados de cumplimiento de especificaciones (ver figura 1).
-    .row.justify-content-center.mb-5
-      .col-lg-8
+    .row.justify-content-center.align-items-end.mb-5
+      .col-lg-8.mb-lg-0.mb-3
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5
-          span
+          h5 Figura 1
+          br
+          span.fst-italic Evolucion de la calidad 
+        img(src='@/assets/curso/temas/tema1/18.svg', alt='').mb-4
+        .p-4(style="background-color: #FFC0A5")
+          p.mb-0 #[b Los consumidores] de esta década estaban mejor informados y por eso más cuidadosos con sus compras, relacionando ya precio y calidad, adicional, las ofertas de bienes y servicios más globalizadas. Ante tal exigencia del mercado las empresas se vieron en la necesidad de incrementar sus presupuestos para conseguir, no sacar productos defectuosos.
+      .col-lg-4.col-8: img(src='@/assets/curso/temas/tema1/19.svg', alt='')
+      
+
 
       
 </template>
