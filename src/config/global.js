@@ -40,52 +40,77 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: '',
+        titulo: 'Calidad',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            numero: '1.1',
-            titulo: '',
-            hash: 't_1_1',
-          },
-        ],
       },
 
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: '',
+        titulo: 'Enfoque de la calidad desde su entorno',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: '',
+        titulo: 'Sistema de Gestión de Calidad SGC',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: '',
+        titulo: 'ISO 9000 Organización Internacional de Normalización',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: '',
+        titulo: 'Control de calidad',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema6',
         numero: '6',
-        titulo: '',
+        titulo: 'Control estadístico de la calidad',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema7',
         numero: '7',
-        titulo: '',
+        titulo: 'Gestión de inventarios',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '7.1',
+            titulo: 'Tipos de inventarios',
+            hash: 't_7_1',
+          },
+          {
+            numero: '7.2',
+            titulo: 'Métodos de inventarios',
+            hash: 't_7_2',
+          },
+          {
+            numero: '7.3',
+            titulo: 'Clasificación de inventarios',
+            hash: 't_7_3',
+          },
+          {
+            numero: '7.4',
+            titulo: '7.4.	Flujo de inventarios temporales <em>(STOCK)</em>',
+            hash: 't_7_4',
+          },
+          {
+            numero: '7.5',
+            titulo: 'Costos de inventarios',
+            hash: 't_7_5',
+          },
+          {
+            numero: '7.6',
+            titulo: 'Normas técnicas (método de valoración de inventarios)',
+            hash: 't_7_6',
+          },
+        ],
       },
     ],
     subMenu: [
@@ -135,32 +160,202 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Enfoque de la calidad desde su entorno',
+      referencia: 'Salvador, S. (2015) ¿Qué es la calidad? [Vídeo]. YouTube. ',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=Qx80GpgUfag&feature=youtu.be',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Sistema de Gestión de Calidad SGC',
+      referencia:
+        'Virtual Training Lteam. (2016). Beneficios de un sistema de Gestión de calidad. [Vídeo]. YouTube. ',
+      tipo: 'Vídeo',
+      link: 'https://www.youtube.com/watch?v=yOImNgNYoMg',
+    },
+    {
+      tema: 'Sistema de Gestión de Calidad SGC',
+      referencia:
+        'Procem Consultores. (2019) ¿Qué son las Normas ISO? [Vídeo]. YouTube.',
+      tipo: 'Vídeo',
+      link: 'https://www.youtube.com/watch?v=QrWsBj6ARG0',
+    },
+    {
+      tema: 'Control de calidad ',
+      referencia:
+        'Gutiérrez Pulido, H. (2013). Control estadístico de la calidad y Seis Sigma.Tercera edición McGraw-Hill Interamericana.',
+      tipo: 'Libro',
+      link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=280',
+    },
+    {
+      tema: 'Control de calidad ',
+      referencia:
+        'Evans, J. R. & Lindsay, W. M. (2020). Administración y control de la calidad. Cengage Learning. ',
+      tipo: 'Libro',
+      link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=10765      ',
+    },
+    {
+      tema: 'Métodos de inventarios',
+      referencia: 'SENA. (2021). Métodos de inventarios. ',
+      tipo: 'PDF ',
+      descarga: '/prueba.pdf',
+    },
+    {
+      tema: 'Finalidad de los tipos de inventarios',
+      referencia:
+        'Goal Project. (s.f.). Introducción a la administración de inventarios. [Video]. YouTube.  ',
+      tipo: 'Video',
+      link: 'https://youtu.be/eWULmSLfu3E  ',
+    },
+    {
+      tema: 'Sistema de inventario periódico',
+      referencia:
+        'Contabilidad Más Excel. (2020). 20 Qué son los Sistemas de Inventario Permanente y Periódico. [Video]. YouTube. ',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=_TZp8zVILo0  ',
+    },
+    {
+      tema: 'Sistema de inventario periódico',
+      referencia:
+        'FAEDIS. (s.f.). Unidad 2. Sistema del inventario periódico. Universidad Militar Nueva Granada. ',
+      tipo: 'Página web ',
+      link:
+        'http://virtual.umng.edu.co/distancia/ecosistema/ovas/administracion_empresas/contabilidad_de_costos/unidad_2/medios/documentacion/p4h1.pdf  ',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Texto de la definición',
+      termino: 'Anomalía',
+      significado:
+        'algo que se separa de lo normal, cambios que se desvían de lo esperado.',
     },
     {
-      termino: '<em>Término con extranjerismo</em>',
-      significado: 'Definición',
+      termino: 'Costo de venta',
+      significado:
+        'es lo que se invierte para hacer una venta representado en lo que se pagó para tener disponible el producto para la venta.',
+    },
+    {
+      termino: 'Costos',
+      significado:
+        'el costo es el desembolso económico que se realiza para la producción de algún bien o la oferta de algún servicio. El costo incluye la compra de insumos, el pago de la mano de obra, los gastos en la producción y los gastos administrativos, entre otras actividades.',
+    },
+    {
+      termino: 'Cuentas por cobrar',
+      significado:
+        'las cuentas por cobrar representan derechos de cobro que se espera recibir en efectivo. Las cuentas por cobrar representan sumas que adeudan las entidades a una empresa por la venta de productos y servicios.',
+    },
+    {
+      termino: 'Cuentas por pagar',
+      significado:
+        'las cuentas por pagar representan la suma que se adeuda en una fecha específica por la compra de productos o servicios. Las cuentas por cobrar representan sumas que adeudan las entidades a una empresa por la venta de productos y servicios.',
+    },
+    {
+      termino: 'Escrutinio',
+      significado: 'examinar algo de manera minuciosa.',
+    },
+    {
+      termino: 'Homologación',
+      significado:
+        'certificar que algo cumple unas normas o requisitos reglamentados.',
+    },
+    {
+      termino: 'Inventario',
+      significado:
+        'el inventario es un conjunto de bienes en existencia destinados a realizar una operación, sea de compra, alquiler, venta, uso o transformación y de esta manera asegurar el servicio a los clientes internos y externos. Debe aparecer, contablemente, dentro del activo como un activo circulante.',
+    },
+    {
+      termino: 'Lecciones aprendidas',
+      significado:
+        'conocimientos adquiridos sobre experiencias de procesos anteriores, a través de la reflexión y el análisis. Trata tanto de factores positivos como negativos.',
+    },
+    {
+      termino: 'Materias primas',
+      significado:
+        'una materia prima es cualquier bien que se transforma a través de un proceso de producción para obtener un bien de consumo. Así pues, existen algunos bienes que no puedes ser utilizados directamente por los consumidores y que necesitan pasar por un proceso de producción para conseguir transformarlo en un producto.',
+    },
+    {
+      termino: 'Mesura',
+      significado:
+        'prudencia y recato que se debe tener en diferentes situaciones.',
+    },
+    {
+      termino: 'Orden de pedido',
+      significado:
+        'concepto de orden de pedido de un cliente. Una orden de compra o nota de pedido es un documento que un comprador entrega a un vendedor para solicitar ciertas mercaderías. En él se detalla la cantidad a comprar, el tipo de producto, el precio, las condiciones de pago y otros.',
+    },
+    {
+      termino: 'Orden de producción',
+      significado:
+        'las órdenes de producción se usan para gestionar la conversión de los materiales adquiridos en productos manufacturados. Las órdenes de producción dirigen el trabajo por los distintos centros de trabajo o de máquina de la planta.',
+    },
+    {
+      termino: 'Pragmático',
+      significado:
+        'se le da prioridad a lo práctico, y menos a la teoría. Lo útil es lo más importante.',
+    },
+    {
+      termino: 'Premisa',
+      significado:
+        'afirmación que se hace de algo, y que sirve como base de partida, para utilizarse en una actividad posterior.',
+    },
+    {
+      termino: 'Rigor',
+      significado:
+        'precisión, exactitud, firmeza, muy poca tolerancia, exigencia alta.',
+    },
+    {
+      termino: 'Simetría',
+      significado:
+        'se refiere a medidas, tamaños y posiciones. que tienen corresponsabilidad con otras partes del todo',
+    },
+    {
+      termino: 'Sinergia',
+      significado: 'trabajar en conjunto, cooperación.',
+    },
+    {
+      termino: 'Stock inventario',
+      significado:
+        'el stock o inventario de existencias es el conjunto de materiales y/o mercancías que se almacenan, ya sean destinados a completar el proceso productivo o tengan como destino la venta al cliente.',
+    },
+    {
+      termino: 'Ventas',
+      significado:
+        'ventas son las actividades realizadas para incentivar potenciales clientes a realizar una determinada compra. El concepto de ventas es muy amplio, pero básicamente consiste en el acto de negociación en el cual una parte es el vendedor y la otra el comprador.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Alliot Group. (2013). Niveles de Inventarios Adecuados. FAEDIS. (2019). Unidad 3. Gestión de Inventarios. ',
+      link:
+        'http://virtual.umng.edu.co/distancia/ecosistema/ovas/administracion_empresas/logistica/unidad_3/DM.pdf',
+    },
+    {
+      referencia:
+        'Gutiérrez Pulido, H. (2020). Calidad y productividad. Quinta edición McGraw-Hill Interamericana',
+      link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=10411',
+    },
+    {
+      referencia:
+        'Martínez Robles, A. (2013). Capítulo II Los Inventarios. Control de inventario con análisis de la demanda para la empresa “Sport B”. [Tesis de grado] Oficina General del sistema de Bibliotecas UNMSM.',
+      link:
+        'http://w4.escolapia.cat/terrassa/aulavirtual/assignat/empresa/Inventaris_esp.pdf',
+    },
+    {
+      referencia:
+        'Martínez Robles, A. (2013). Capítulo III Sistemas de Inventarios. Control de inventario con análisis de la demanda para la empresa “Sport B”. [Tesis de grado] Oficina General del sistema de Bibliotecas UNMSM. ',
+      link:
+        'http://sisbib.unmsm.edu.pe/bibvirtualdata/tesis/basic/martinez_ra/cap03.pdf',
+    },
+    {
+      referencia:
+        'Negocios, Marketing y Finanzas. (2019). Tipos de inventarios. yosoyempleo ',
+      link: 'https://yosoyempleo.es/tipos-de-inventarios/',
+    },
+    {
+      referencia:
+        'Universidad Continental. (2017). ¿Qué es la certificación ISO y por qué es importante? [Articulo Blog]. ',
+      link:
+        'https://ucontinental.edu.pe/logros-uc/iso-9001/la-certificacion-iso-importante/ ',
     },
   ],
   creditos: [
