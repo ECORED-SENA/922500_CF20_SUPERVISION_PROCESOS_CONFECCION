@@ -108,16 +108,53 @@
         h4.text-center Que sea comunicado y divulgado
         p.text-center Que el proceso se cumpla a nivel de toda la organización y sea apoyado.
     p.mb-5(data-aos='fade-right') Al construir un indicador de gestión se integran las siguientes condiciones:
+    LineaTiempoE.color-acento-contenido
+      .row(titulo="1" subtitulo="")
+        .col-2.mb-4.mb-lg-0: img(src='@/assets/curso/temas/tema6/c1.svg', alt='')
+        .col-10
+          h5 Establecer un nombre: 
+          p Característica de la variable, atributo del resultado, impacto de la gestión que se quiere medir. Ej. Calidad del producto, productividad de la empresa.
+      .row(titulo="2" subtitulo="")
+        .col-2.mb-4.mb-lg-0: img(src='@/assets/curso/temas/tema6/c2.svg', alt='')
+        .col-10
+          h5 Construir un objetivo: 
+          p Uso medible que se le espera dar a la información obtenida ej. Conocer el grado de aceptación de nuestros productos por parte del cliente.
+      .row(titulo="3" subtitulo="")
+        .col-2.mb-4.mb-lg-0: img(src='@/assets/curso/temas/tema6/c3.svg', alt='')
+        .col-10
+          h5 Definir el proceso a medir: 
+          p El Proceso a medir.
+      .row(titulo="" subtitulo="")
+        .col-2.mb-4.mb-lg-0: img(src='@/assets/curso/temas/tema6/c4.svg', alt='')
+        .col-10
+          h5 Diseñar la fórmula de cálculo porcentual del indicador: 
+          p Establecer las variables acordes a lo que se mide.
+      .row(titulo="4" subtitulo="")
+        .col-2.mb-4.mb-lg-0: img(src='@/assets/curso/temas/tema6/c5.svg', alt='')
+        .col-10
+          h5 Establecer el dueño del proceso: 
+          p Especificar y clarificar a quienes les corresponde actuar en cada momento y en cada nivel de la organización frente a la información del indicador.
+      .row(titulo="5" subtitulo="")
+        .col-2.mb-4.mb-lg-0: img(src='@/assets/curso/temas/tema6/c6.svg', alt='')
+        .col-10
+          h5 Establecer los puntos de lectura:
+          p De las o actividades del proceso en los cuales debe realizarse la medición.
+      .row(titulo="6" subtitulo="")
+        .col-2.mb-4.mb-lg-0: img(src='@/assets/curso/temas/tema6/c7.svg', alt='')
+        .col-10
+          h5 Establecer la frecuencia:
+          p Periodicidad con que deben realizarse las mediciones, horario diario, semanal, quincenal mensual.
+          
+
 
     
-    //TODO! falta linea de tiempo 
 
     p.mb-5(data-aos='fade-right') Los indicadores de gestión se convierten en los signos vitales de la organización y su continuo monitoreo permite establecer las condiciones e identificar los diversos síntomas que se derivan del desarrollo normal de las actividades. Además, requiere de tres (4) elementos esenciales para determinar si se está haciendo las cosas bien, estos son:
     .row.justify-content-center.mb-5
       .col-lg-8.mb-lg-0.mb-3
         TabsA.color-acento-botones.mb-5
-          .tarjeta.p-4(titulo="Eficacia" style="background-color: #F5E0E4 ")
-            h4 Eficacia
+          .tarjeta.p-4(titulo="Eficiencia" style="background-color: #F5E0E4 ")
+            h4 Eficiencia
             p Cuando se logra hacer lo que se debe hacer bien hecho y además con uso racional de los recursos o insumos disponibles en la consecución del producto. Obtener más productos con los mismos o con menos recursos (resultados solo cuantitativos).
           .tarjeta.p-4(titulo=" Eficacia" style="background-color: #F5E0E4 ")
             h4 Eficacia
@@ -136,11 +173,10 @@
         p Es una herramienta gráfica, matriz o plantilla empleada para el registro de la información de un conjunto de datos estadísticos, cuya contribución ayuda a medir, evaluar, y controlar un proceso productivo. El diseño de un cuadro de control posibilita el análisis y la presentación de la información en formato visual para mejor entendimiento y toma de decisiones. La elaboración de la matriz del control estadístico se fundamenta en la necesidad de analizar una serie de características y resolver un problema latente del sistema.
         .cajon.color-acento-botones.p-4.mb-4
           p.mb-0 Un cuadro de control tiene como objetivo presentar en forma ordenada valores que toman diferentes características, por lo tanto, permiten al usuario tener una visión global y precisa de la tabulación de los caracteres. Un valor agregado de los cuadros de control es permitir la presentación de informes con un alto contenido de directrices, políticas y estrategias.
-        p A continuación se presenta un ejemplo práctico de una matriz de calidad en el proceso de confección. Cada opción evalúa los criterios en función de su nivel de cumplimiento. Lo invitamos a  descargar el archivo adjunto.
+        p A continuación, se presenta un ejemplo práctico de una matriz de calidad en el proceso de confección. Cada opción evalúa los criterios en función de su nivel de cumplimiento. Lo invitamos a  descargar el archivo adjunto.
       .col-lg-4.col-8: img(src='@/assets/curso/temas/tema6/16.png', alt='')
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
       h5 Tabla 4
-      br
       span.fst-italic Matriz de calidad en proceso
     img.mb-4(src='@/assets/curso/temas/tema6/17.svg', alt='')
     //TODO! PENDIENTE CARGR EL XML 
@@ -170,7 +206,6 @@
         p Una matriz de indicadores de control de piso es una herramienta utilizada para monitorear y evaluar diferentes aspectos y variables clave en un entorno de producción o piso de operaciones. Estos indicadores proporcionan información relevante para medir el desempeño, identificar desviaciones y tomar acciones correctivas oportunas. En la tabla 5 se presenta un ejemplo de cómo se puede estructurar este tipo de matriz:
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
       h5 Tabla 5
-      br
       span Matriz de indicadores de control de piso
     .tabla-a.color-acento-botones.mb-5
         table

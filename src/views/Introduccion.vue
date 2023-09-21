@@ -16,8 +16,8 @@
             p.mb-0 Se da una bienvenida al componente formativo “Control de calidad e inventarios”. Para comenzar el recorrido por el mismo, se debe visitar el video que se muestra a continuación:
       figure
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video. 
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/Ugf9tWHG2-0?si=I8DYuwmbsiuMhGZR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        figcaption Video. Control de calidad e inventarios 
         
 
     

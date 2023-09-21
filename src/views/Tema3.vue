@@ -13,18 +13,17 @@
           p.mb-0 Para poder llevar a cabo acciones que intervengan los procesos en las empresas, en lo que se refiere a calidad, es necesario que exista una coordinación de los recursos que participan en estos procesos: una estructura que organice y oriente la fuerza de trabajo. Debe llevar documentos y registros, y debe estar alineada con los procedimientos técnicos y administrativos; y que siempre esté enfocada al cumplimiento de requisitos y especificaciones.
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
       h5 Figura 2
-      br
-      span.fst-italic Sistema de Gestión de Calidad
+      span Sistema de Gestión de Calidad
     .row.justify-content-center.mb-5
       .col-lg-7.col-8: img(src='@/assets/curso/temas/tema3/2.svg', alt='') 
-    p.mb-5(data-aos='fade-right') De esta manera, se puede decir que el Sistema de Gestión de Calidad (SGC) (ver figura 2) es la relación de todas las partes interesadas de la compañía (todas), con el fin de obtener resultados óptimos, y esperados por el cliente, satisfaciendo todas las necesidades y expectativas.
+    p.mb-5(data-aos='fade-right') De esta manera, se puede decir que el Sistema de Gestión de Calidad - SGC (ver figura 2) es la relación de todas las partes interesadas de la compañía (todas), con el fin de obtener resultados óptimos, y esperados por el cliente, satisfaciendo todas las necesidades y expectativas.
     .row.justify-content-center.mb-5
       .col-lg-8.mb-lg-0.mb-3
         .p-4.mb-4(style="background-color: #FCD5C4 ")
           .row.justify-content-center.align-items-center
             .col-2: img(src='@/assets/curso/temas/tema3/3.svg', alt='')
             .col-lg-10: p El SGC, ayuda a que las compañías logren niveles altos de estandarización, al establecer herramientas administrativas de planeación, organización, ejecución y control, de igual manera para documentar los procedimientos y manuales de funciones, que sirvan como guía de trabajo, y para medir desempeños y gestiones.
-        p Además de documentar lo que se debe hacer, se deben llevar registros que demuestren que lo que está escrito se esté cumpliendo a cabalidad. Es el SGC, el que muestra los caminos a recorrer, las hojas de ruta, es el encargado de la trazabilidad, y de diseñar políticas que fortalezcan el desarrollo de actividades, para cumplir objetivos. En ese sentido, debe ayudar a automatizar procesos y sistemas de información, que faciliten y agilicen, la comunicación entre los procesos, las personas y la empresa en general. Cuando esto empieza a suceder, es más sencillo detectar no conformidades, y mejorarlas, esto último repercute en los costos y la productividad
+        p Además de documentar lo que se debe hacer, se deben llevar registros que demuestren que lo que está escrito se esté cumpliendo a cabalidad. Es el SGC, el que muestra los caminos a recorrer, las hojas de ruta, es el encargado de la trazabilidad, y de diseñar políticas que fortalezcan el desarrollo de actividades, para cumplir objetivos. En ese sentido, debe ayudar a automatizar procesos y sistemas de información, que faciliten y agilicen, la comunicación entre los procesos, las personas y la empresa en general. Cuando esto empieza a suceder, es más sencillo detectar no conformidades, y mejorarlas, esto último repercute en los costos y la productividad.
       .col-lg-4.col-8: img(src='@/assets/curso/temas/tema3/4.png', alt='')
     .titulo-icono.mb-4
       .titulo-icono__texto: h4.text-white.mb-0 Implementación de un Sistema de Gestión de Calidad SGC
@@ -49,7 +48,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-11
               h4 Procesos de trabajo
-              p Las maneras como se elaboran o fabrican los productos o servicios que se ofrecen, metodologías, formas de recibir, transformar y entregar
+              p Las maneras como se elaboran o fabrican los productos o servicios que se ofrecen, metodologías, formas de recibir, transformar y entregar.
             .col-1: img(src='@/assets/curso/temas/tema3/6.svg', alt='')
     .row.justify-content-center.g-0
       .col-1
@@ -74,7 +73,7 @@
               p Las metas, el enfoque de adonde se están orientando todos los esfuerzos mancomunados.
             .col-1: img(src='@/assets/curso/temas/tema3/8.svg', alt='')
     h4
-      span.color-acento-contenido a) Recursos
+      span.color-acento-contenido a. Recursos.
     p La organización debe determinar y proporcionar los recursos necesarios para el establecimiento, implementación, mantenimiento y mejora continua del SGC. Considerando las capacidades y limitaciones de los recursos internos existentes, y tener claridad de lo que se requiere de los proveedores externos.
       br
       br
@@ -88,24 +87,23 @@
       .col-lg-6.mb-lg-0.mb-3
         .tarjeta.tarjeta-icono.p-5(style="background-color: #FFEBE4").ms-lg-5
           img.icono(src='@/assets/curso/temas/tema3/10.svg', alt='')
-          h4 Recursos economicos
-          p.mb-0 El dinero es un factor importante en el mejoramiento, pero para implementar un sistema de gestión de calidad (SGC) no se requieren sumas elevadas. La capacitación del personal no es costosa ni difícil, y existen software diseñados para documentar y llevar registros a precios asequibles. Los indicadores y formatos se pueden crear en Excel y Word. Lo importante es que el SGC cumpla con la misión del sistema.
+          h4 Recursos económicos
+          p.mb-0 El dinero es un factor importante en el mejoramiento, pero para implementar un sistema de gestión de calidad (SGC) no se requieren sumas elevadas. La capacitación del personal no es costosa ni difícil, y existen #[em software] diseñados para documentar y llevar registros a precios asequibles. Los indicadores y formatos se pueden crear en Excel y Word. Lo importante es que el SGC cumpla con la misión del sistema.
     h4 
-      span.color-acento-contenido b) Equipos y logística.
+      span.color-acento-contenido b. Equipos y logística.
     p Inicialmente se debe tener en cuenta que sin máquinas e infraestructura no es posible tener una planta de producción, este equipo y estos edificios deben ser coherentes con la facturación esperada y con la capacidad instalada. Si el SGC va a coordinar y orientar todas las áreas, se va a encargar de que haya coherencia en el sistema, y dicte normativas de acuerdo con las dimensiones de la compañía. Toda la manera como funcione esta área y como se le haga el respectivo mantenimiento, está dentro del sistema de gestión de calidad.
     .row.justify-content-center.mb-5
       .col-lg-8.mb-lg-0.mb-3
-        h4: span.color-acento-contenido c) Competencias y experiencia.
+        h4: span.color-acento-contenido c. Competencias y experiencia.
         p: |Es otro de los recursos que se deben incorporar al SGC, solo se consigue una buena gestión para lograr la calidad, cuando se sabe sacar adelante todos los proyectos y se requiere aprovechar las experiencias exitosas y las no exitosas, todos estos aprendizajes deben quedar registrados y el nombre técnico utilizado es el de lecciones aprendidas, en las organizaciones es importante que se evolucione mediante la consideración constante de los resultados anteriores.
         h4: span.color-acento-contenido d. Procesos.
         p Uno de los objetivos más importantes del SGC, es el de hacer interactuar todas las áreas de manera adecuada para obtener la mayor cantidad de beneficios. Donde más incide la mejora o la ausencia de esta, es en las plantas de producción, en los procesos, las operaciones o las actividades de transformación. Saber y comprender, en cada uno de los procesos, cuáles son las entradas, las transformaciones y las salidas, permite identificar en qué pasos se puede implementar una acción de mejora, los sistemas de gestión deben estar siempre enfocados en procesos. #[span.color-acento-contenido.fw-bold De allí la importancia de realizar un mapa de procesos, para visualizar la situación actual, como se puede observar en la siguiente figura 3:]
       .col-lg-4.col-8: img(src='@/assets/curso/temas/tema3/11.png', alt='')
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
       h5 Figura 3
-      br
-      span.fst-italic Siete razones para documentar procesos
+      span Siete razones para documentar procesos
     .row.justify-content-center.mb-5
-      .col-lg-7: img(src='@/assets/curso/temas/tema3/12.svg', alt='')
+      .col-lg-7: img(src='@/assets/curso/temas/tema3/12.svg', alt='La figura explica las siete razones para documentar procesos. Estas razones incluyen: que todos trabajen del mismo modo, conozcan cómo documentar tareas, se elimine la concentración de conocimientos especializados, se mejoren los procesos al estar redactados, se obtenga agilidad en las nuevas incorporaciones, se aprovechen las lecciones aprendidas y se brinde ayuda en la medición de resultados.')
     .row.justify-content-center.mb-5.g-0
       .col-lg-4: img(src='@/assets/curso/temas/tema3/13.jpg', alt='')
       .col-lg-8
@@ -113,7 +111,7 @@
           p.mb-0 Al documentar estos procesos, se está asegurando que en el futuro se seguirán las directrices aquí plasmadas, a lo que se denomina “Procedimiento de trabajo”. Estos procedimientos de trabajo o documentación de procesos son fundamentales en las empresas, así no será necesario que las personas realicen las actividades de diferentes maneras, si todo el personal sigue las instrucciones de acuerdo al documento, se estará hablando de procesos normalizados o estandarizados.
     p.mb-5(data-aos='fade-right') Los documentos de los procesos deben tener una ruta de acuerdo con el tema, la fecha y las responsabilidades del personal. De igual manera sus modificaciones o actualizaciones deben quedar registradas.
     h4: span.color-acento-contenido e) Políticas de calidad.
-    p.mb-5(data-aos='fade-right') La política de la calidad es una de las primeras acciones que se establecen cuando se inicia la implantación de un Sistema de Gestión de la Calidad. Es una de las actividades de la Alta Dirección y contiene orientaciones generales, intenciones y objetivos de la organización referente a la calidad. A continuación se ven cuáles son:
+    p.mb-5(data-aos='fade-right') La política de la calidad es una de las primeras acciones que se establecen cuando se inicia la implantación de un Sistema de Gestión de la Calidad. Es una de las actividades de la Alta Dirección y contiene orientaciones generales, intenciones y objetivos de la organización referente a la calidad. A continuación, se ven cuáles son:
     .row.justify-content-center.mb-5
       .col-lg-8.mb-lg-0.mb-3
         TabsA.color-acento-botones.mb-5
@@ -135,8 +133,7 @@
       .col-lg-8
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
           h5 Figura 4
-          br
-          span.fst-italic Descripción de una situación, como cumplimiento de una política.
+          span Descripción de una situación, como cumplimiento de una política.
         .row.justify-content-center.mb-5
           .col-lg-8: img(src='@/assets/curso/temas/tema3/15.svg', alt='')
     h4: span.color-acento-contenido f) Objetivos de la calidad.
@@ -152,37 +149,35 @@
           .row.justify-content-center.mb-3
             .col-5
               img(src='@/assets/curso/temas/tema3/17.svg' alt='AvatarTop')
-          h4.text-center Specific / específico
+          h4.text-center #[em Specific] / específico
           p.text-center No debe ser etéreo, el objetivo debe contener una descripción muy detallada.
       .col-lg-3.mb-lg-0.mb-3
         .tarjeta.p-4(style="background-color: #FFA884 ").h-100
           .row.justify-content-center.mb-3
             .col-5
               img(src='@/assets/curso/temas/tema3/18.svg' alt='AvatarTop')
-          h4.text-center Mesurable/ meddible
+          h4.text-center #[em Mesurable]/ meddible
           p.text-center El objetivo tiene que tener la cualidad de ser medible para poderlo valorar frente a los resultados esperados.
       .col-lg-3.mb-lg-0.mb-3
         .tarjeta.p-4(style="background-color: #FFA884 ").h-100
           .row.justify-content-center.mb-3
             .col-5
               img(src='@/assets/curso/temas/tema3/19.svg' alt='AvatarTop')
-          h4.text-center Achievable/ archivable
+          h4.text-center #[em Achievable]/ archivable
           p.text-center Los objetivos deben ser realistas, que sea viable su consecución, no se debe convertir un sueño en un objetivo.
       .col-lg-3.mb-lg-0.mb-3
         .tarjeta.p-4(style="background-color: #FFA884 ").h-100
           .row.justify-content-center.mb-3
             .col-5
               img(src='@/assets/curso/temas/tema3/20.svg' alt='AvatarTop')
-          h4.text-center Result-oriented/ orientado a resultados
+          h4.text-center #[em Result-oriented]/ orientado a resultados
           p.text-center Que sea práctico, que esté enfocado a los resultados coherentes con las políticas y la misión de la empresa.
     p Es importante establecer las metas generales de la organización antes de empezar a construir los objetivos #[span.color-acento-contenido.fw-bold SMART], no se debe perder el enfoque y además ayuda a delegar responsabilidades y saber de qué manera se le hace el seguimiento al cumplimiento de los objetivos desde el SGC. Para esto en la siguiente tabla se puede observar un ejemplo de las variables a tener en cuenta en el seguimiento del cumplimiento de objetivos:
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
       h5 Tabla 1. 
-      br
-      span.fst-italic Ejemplo de seguimiento en el cumplimiento de objetivos en una empresa en lavandería de prendas 
+      span Ejemplo de seguimiento en el cumplimiento de objetivos en una empresa en lavandería de prendas 
     .tabla-a.color-acento-contenido.mb-5
       table
-        caption Leyenda de la tabla
         thead
           tr(style="background-color: #E8E8E8 ").fw-bold
             th N°

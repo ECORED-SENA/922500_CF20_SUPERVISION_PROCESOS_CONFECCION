@@ -30,32 +30,27 @@
     p.mb-5(data-aos='fade-right') La manera como se ha venido verificando el cumplimiento de requisitos o especificaciones, ha tenido cambios a través de toda la historia, hasta el día de hoy. Las metodologías y las responsabilidades al interior de las empresas se han venido transformado y han pasado por varias etapas, como se puede ver a continuación:
     .tarjeta.bg-card.p-5.mb-5
       LineaTiempoC.color-acento-contenido(text-small)
-        .row(titulo="Paso 1")
+        .row(titulo="Primera etapa: finales del siglo XIX")
           .col-md-7.mb-4.mb-md-0
-            h4 Primera etapa: finales del siglo XIX
             p A finales del siglo XIX después de la segunda revolución industrial, los procesos se estaban industrializando y ya existían cadenas de producción, al final de los procesos se hacía una revisión y se clasificaban los productos entre los que cumplían al 100% lo esperado, y los que no lo hacían. Esto significaba grandes pérdidas económicas, e incumplimiento en los compromisos de las entregas. La responsabilidad de la calidad recaía en los obreros.
           .col-md-5: img(src='@/assets/curso/temas/tema1/12.png', alt='')
-        .row(titulo="Paso 2")
+        .row(titulo="Segunda etapa: 1925 ")
           .col-md-7.mb-4.mb-md-0
-            h4 Segunda etapa: 1925 
             p Después de la primera guerra mundial los procesos estaban más industrializados y complejos, se individualizaron las operaciones, las personas se especializaron más. Las fábricas de acuerdo con el mejoramiento de los equipos se volvieron más modernas, y hubo una reorganización interna en los cargos y responsabilidades. 
               br
               br
               |Se nombraron supervisores y estos a su vez se encargaron de vigilar el cumplimiento de los requisitos de calidad. Los encargados o supervisores tenían la responsabilidad de que los productos quedaran bien, pero como tenían otras funciones, el tema de verificar el cumplimiento de los requisitos no lo ejecutaban a cabalidad. 
           .col-md-5: img(src='@/assets/curso/temas/tema1/13.png', alt='')
-        .row(titulo="Paso 3")
+        .row(titulo="Tercera etapa: 1935")
           .col-md-7.mb-4.mb-md-0
-            h4 Tercera etapa: 1935
             p Se empieza a hacer control de calidad por inspección, control que ejercía responsablemente un designado. Se nombran los inspectores de calidad, y de alguna manera se separan las actividades de producción y calidad, se creía, y aún se creé que no es fácil producir rápido y bueno. La calidad y la productividad no deben de reñir.
           .col-md-5: img(src='@/assets/curso/temas/tema1/14.png', alt='')
-        .row(titulo="Paso 4")
+        .row(titulo="Cuarta etapa: 1945")
           .col-md-7.mb-4.mb-md-0
-            h4 Cuarta etapa: 1945
-            p Después de la Segunda Guerra Mundial, se incorporó la estadística a los controles para tomar mejores decisiones y acciones de mejoramiento. Se utilizaron herramientas estadísticas como formatos, tablas y gráficas. Los avances tecnológicos ayudaron a esto, lo que permitió producir rápidamente, a bajo costo y con muy buena calidad. Debido a las secuelas de la guerra, la necesidad de hacer florecer las industrias inspiró mejores formas de trabajar. Asesores norteamericanos como Joshep Juran y Edwards Deming implementaron controles estadísticos de calidad en Japón, lo que ayudó en su reconstrucción. La calidad se integró a toda la cadena de producción con la metodología de mejoramiento continuo (kaisen).
+            p Después de la Segunda Guerra Mundial, se incorporó la estadística a los controles para tomar mejores decisiones y acciones de mejoramiento. Se utilizaron herramientas estadísticas como formatos, tablas y gráficas. Los avances tecnológicos ayudaron a esto, lo que permitió producir rápidamente, a bajo costo y con muy buena calidad. Debido a las secuelas de la guerra, la necesidad de hacer florecer las industrias inspiró mejores formas de trabajar. Asesores norteamericanos como Joshep Juran y Edwards Deming implementaron controles estadísticos de calidad en Japón, lo que ayudó en su reconstrucción. La calidad se integró a toda la cadena de producción con la metodología de mejoramiento continuo (Kaisen).
           .col-md-5: img(src='@/assets/curso/temas/tema1/15.png', alt='')
-        .row(titulo="Paso 5")
+        .row(titulo="Calidad Total: 1970")
           .col-md-7.mb-4.mb-md-0
-            h4 Calidad Total: 1970 
             p Se vincula todo el personal de la organización a las actividades encaminadas a cumplir con las especificaciones del producto. Las inspecciones se realizan en toda la cadena de producción con el fin de detectar anomalías a tiempo, y poder tomar acciones en el momento oportuno. Los proveedores se integran a las responsabilidades, y los servicios.
           .col-md-5: img(src='@/assets/curso/temas/tema1/16.png', alt='')
     .titulo-icono.mb-4
@@ -70,8 +65,7 @@
       .col-lg-8.mb-lg-0.mb-3
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
           h5 Figura 1
-          br
-          span.fst-italic Evolucion de la calidad 
+          span Evolucion de la calidad 
         img(src='@/assets/curso/temas/tema1/18.svg', alt='').mb-4
         .p-4(style="background-color: #FFC0A5")
           p.mb-0 #[b Los consumidores] de esta década estaban mejor informados y por eso más cuidadosos con sus compras, relacionando ya precio y calidad, adicional, las ofertas de bienes y servicios más globalizadas. Ante tal exigencia del mercado las empresas se vieron en la necesidad de incrementar sus presupuestos para conseguir, no sacar productos defectuosos.
@@ -97,7 +91,7 @@ export default {
       {
         titulo: 'William Edwards Deming (1988)',
         texto:
-          'Determinó al concepto calidad como ese grado predecible de uniformidad y fiabilidad a un bajo coste. Este grado debe ajustarse a las necesidades del mercado. Según Deming la calidad no es otra cosa más que “una serie de cuestionamiento hacia una mejora continua”<br>Es considerado el padre del PHVA, Planear, Hacer, Verificar, Actuar; claves del mejoramiento continuo a un bajo costo.',
+          'Determinó al concepto calidad como ese grado predecible de uniformidad y fiabilidad a un bajo coste. Este grado debe ajustarse a las necesidades del mercado. Según Deming la calidad no es otra cosa más que “una serie de cuestionamiento hacia una mejora continua.<br><br>Es considerado el padre del PHVA, Planear, Hacer, Verificar, Actuar; claves del mejoramiento continuo a un bajo costo.',
         icono: require('@/assets/curso/temas/tema1/5.png'),
       },
       {
@@ -107,7 +101,7 @@ export default {
         icono: require('@/assets/curso/temas/tema1/6.png'),
       },
       {
-        titulo: 'Armand V. Feigenbaum (1991',
+        titulo: 'Armand V. Feigenbaum (1991)',
         texto:
           'Entendió la calidad como un proceso que debe comenzar con el diseño del producto y finalizar sólo cuando se encuentre en manos de un consumidor satisfecho.<br> Considera que la cadena de valor y el sistema de producción, así como la satisfacción es lo más importante.',
         icono: require('@/assets/curso/temas/tema1/7.png'),

@@ -19,8 +19,7 @@
       .col-lg-6.col-8.mb-lg-0.mb-3
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
           h5 Figura 5
-          br
-          span.fst-italic Actores del SGC
+          span Actores del SGC
         img(src='@/assets/curso/temas/tema5/2.svg', alt='La figura menciona los actores del sistema de gestión de la calidad, los cuales son: clientes, trabajadores, proveedores, sociedad, capital y el estado.')
       .col-lg-6
         p Todos estos actores de alguna manera participan en la elaboración del listado de requisitos o especificaciones que hay que cumplir y que finalmente van a satisfacer necesidades y expectativas.
@@ -56,7 +55,7 @@
               ul.lista-ul--color
                 li.d-flex
                   i.fas.fa-tshirt(style="color: #3097A1")
-                  p.mb-0 Diseñar y utilizar los formatos necesarios que permitan consignar los hallazgos encontrados después de las verificaciones-
+                  p.mb-0 Diseñar y utilizar los formatos necesarios que permitan consignar los hallazgos encontrados después de las verificaciones.
                 li.d-flex
                   i.fas.fa-tshirt(style="color: #3097A1")
                   p.mb-0 Tomar las mejores decisiones, y en el tiempo ideal para evitar que los procesos se retrasen.
@@ -131,14 +130,13 @@
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
           h5 Tabla 2
-          br
-          span.fst-italic Ejemplo de instrucciones para operaria
+          span Ejemplo de instrucciones para operaria
         .tabla-a.color-acento-botones.mb-5
           table
             thead(style="border-color: #9B1F36")
               tr(style="background-color: #E8E8E8 ")
                 th 
-                th Verifique
+                th.text-start Verifique
             tbody
               tr
                 td(rowspan="7" style="background-color: #E8E8E8; width: 20% ") Antes de empezar a trabajar
@@ -241,8 +239,7 @@
       span.color-acento-contenido.fw-bold Teniendo en cuenta lo anterior, es importante que se conozca un formato para elaborar la planeación de un control de calidad:
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
       h5 Tabla 3
-      br
-      span.fst-italic Formato para planear control de calidad
+      span Formato para planear control de calidad
     .tabla-a.color-acento-botones.mb-5
         table
           thead(style="border-color: #9B1F36")
@@ -277,8 +274,7 @@
       .col-lg-4.col-8: img(src='@/assets/curso/temas/tema5/7.jpg', alt='')
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
       h5 Figura 6
-      br
-      span.fst-italic  Control de la calidad
+      span  Control de la calidad
     img(src='@/assets/curso/temas/tema5/8.svg', alt='La figura explica el seguimiento al control de calidad que se realiza a los procesos y actividades de confección. Se evalúan cuatro etapas clave: diseño, corte, confección y acabado. Se consideran aspectos a revisar, se utilizan documentos y herramientas específicas, se identifican hallazgos y se implementan acciones de mejora.')
     .titulo-icono.mb-4
       .titulo-icono__texto: h4.text-white.mb-0 Auditorías
@@ -301,9 +297,9 @@
       .col-lg-4.col-8.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema5/10.png', alt='')    
       .col-lg-7
         .p-3.rounded-pill(style="background-color: #FFC5AD ").mb-3
-          p.mb-0 a) La conformidad de los productos y servicios
+          p.mb-0 a) La conformidad de los productos y servicios.
         .p-3.rounded-pill(style="background-color: #FFC5AD ").mb-3
-          p.mb-0 b) El grado de satisfacción del cliente
+          p.mb-0 b) El grado de satisfacción del cliente.
         .p-3.rounded-pill(style="background-color: #FFC5AD ").mb-3
           p.mb-0 c) El desempeño y la eficacia del sistema de gestión de la calidad.
         .p-3.rounded-pill(style="background-color: #FFC5AD ").mb-3

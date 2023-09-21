@@ -212,7 +212,7 @@
       .col-lg-4.col-8.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema7/22.png', alt='')
       .col-lg-4
         h4 Contabilidad
-        p Mantener el inventario contabilizado y actualizado registrando todos los movimientos de manera periódica a través del sistema de inventarios que más se ajuste a los requerimientos de la compañía
+        p Mantener el inventario contabilizado y actualizado, registrando todos los movimientos de manera periódica a través del sistema de inventarios que más se ajuste a los requerimientos de la compañía.
         .cajon.color-azul.p-4.mb-4
           p.mb-0 Observe el video que se encuentra en el material complementario “Introducción a la administración de inventarios” allí encontrará la explicación de manera creativa sobre la gestión de inventarios y los porcentajes para mantener un inventario o almacenamiento. 
     Separador 
@@ -228,10 +228,9 @@
     p.mb-5(data-aos='fade-right') Esta metodología de clasificación funciona por medio de la segmentación de los productos donde tienen unos criterios como indicadores de importancia de las solicitudes a proveedores y el costo de adquirir estos insumos o en su caso el costo de mantener este inventario almacenado (ver figura 7).
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
       h5 Figura 7
-      br
-      span.fst-italic Clasificación de los inventarios ABC
+      span Clasificación de los inventarios ABC
     .row.justify-content-center.mb-5
-      .col-lg-8: img(src='@/assets/curso/temas/tema7/24.svg', alt='') 
+      .col-lg-8: img(src='@/assets/curso/temas/tema7/24.svg', alt='La figura explica la clasificación ABC de inventarios en tres categorías: A, B y C. La categoría A comprende productos de alto valor y alto flujo de inventario, con análisis comercial detallado y registros actualizados. La categoría B incluye mercancías con ventas moderadas pero alta rotación, requiriendo mantenimiento y atención. La categoría C abarca productos de baja rotación debido a bajas ventas, con énfasis en simplificar el control de costos e impulsar la rotación de inventarios.') 
     .row.justify-content-center.mb-5
       .col-lg-8.mb-lg-0.mb-3
         p Con el fin de establecer los niveles de importancia se podría tener en cuenta los siguientes factores:
@@ -282,9 +281,8 @@
         .tarjeta.bg-white.p-4
           .titulo-sexto.color-acento-contenido(data-aos='fade-right')
             h5 Figura 8
-            br
-            span.fst-italic  Ejemplo de lote óptimo
-          img(src='@/assets/curso/temas/tema7/26.svg', alt='')
+            span  Ejemplo de lote óptimo
+          img(src='@/assets/curso/temas/tema7/26.svg', alt='La figura muestra el lote óptimo, el cual busca calcular la cantidad óptima de unidades en un lote de producción. En esta figura se considera el tiempo de entrega y el periodo que transcurre desde la emisión de la orden de compra hasta la recepción del pedido. No se toman en cuenta el inventario en stock ni los beneficios o costos asociados con mantener un inventario almacenado. El objetivo es determinar el volumen de pedido que resulte en los costos totales más bajos, teniendo en cuenta tanto los costos de pedido como los costos de mantenimiento.')
     p.mb-5(data-aos='fade-right') Cuando se implementan o desarrollan las teorías planteadas por profesionales que tienen experiencia, la gráfica queda con la expresión de una sierra. El grafico debe ser planteado por los periodos en que el producto tiene los comportamientos, bien sea por trimestres, semanas o meses.
     .row.justify-content-center.mb-5
       .col-lg-8.mb-lg-0.mb-3
@@ -361,11 +359,10 @@
     .row.justify-content-center.mb-5
       .col-lg-8.mb-lg-0.mb-3
         .p-4(style="background-color: #F6F6F6")
-          .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+          .titulo-sexto.color-acento-contenido
             h5 Figura 9 
-            br
-            span.fst-italic Representación gráfica CEP (Cantidad económica de pedidos)
-          img(src='@/assets/curso/temas/tema7/30.svg', alt='')
+            span Representación gráfica CEP (Cantidad económica de pedidos)
+          img(src='@/assets/curso/temas/tema7/30.svg', alt='La figura representa la curva de la cantidad económica de pedido, la cual considera los distintos costos financieros y operativos para determinar el monto óptimo de pedido que minimiza los costos de inventario de la empresa.')
       .col-lg-4
         .p-5.border-3(style="background-color: #F5E6E9;border: 0.5px solid #9B1F36 ")
           p #[b CT =] Costo Total.
@@ -396,8 +393,8 @@
     p.mb-5(data-aos='fade-right') El inventario justo a tiempo es un método de gestión de inventarios que busca minimizar los costos asociados con el almacenamiento de inventario, al mismo tiempo que garantiza la disponibilidad de los materiales necesarios para la producción, en el siguiente video se profundiza más:
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video. Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/XgmrdBWTDBs?si=NRu_223TQbYh6GtE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video. Inventario justo a tiempo
     p.mb-5(data-aos='fade-right') Las ideas mencionadas anteriormente son características importantes que deben ser consideradas en la implementación de un sistema de inventarios con niveles mínimos y máximos. Estos niveles de inventario establecen un punto de equilibrio para mantener ciclos de tiempo cortos desde el momento en que se recibe una orden de pedido hasta la entrega del producto al cliente, lo que permite responder en un límite de tiempo muy corto.
     Separador 
     #t_7_4.titulo-segundo.color-acento-contenido(data-aos='fade-right')
@@ -407,7 +404,7 @@
       .col-lg-4: img(src='@/assets/curso/temas/tema7/31.png', alt='')
       .col-lg-8
         .p-5(style="background-color: #D2E1F1").h-100.d-flex.align-items-center
-          p.mb-0 En la gestión de inventarios, también se consideran los stocks en proceso, que incluyen las prendas que están siendo fabricadas en los módulos o líneas de producción, ya sea que estén por terminar la confección, que necesiten ser empacadas o que deban tener etiquetas agregadas. Asimismo, se debe considerar el producto terminado, que se almacena en un centro de distribución hasta que se realice el proceso de packing (alistamiento) de la orden de pedido del cliente. Posteriormente, se lleva a cabo el proceso logístico hasta la entrega al cliente y el proceso comercial de pago por adquirir el producto.
+          p.mb-0 En la gestión de inventarios, también se consideran los stocks en proceso, que incluyen las prendas que están siendo fabricadas en los módulos o líneas de producción, ya sea que estén por terminar la confección, que necesiten ser empacadas o que deban tener etiquetas agregadas. Asimismo, se debe considerar el producto terminado, que se almacena en un centro de distribución hasta que se realice el proceso de #[em packing] (alistamiento) de la orden de pedido del cliente. Posteriormente, se lleva a cabo el proceso logístico hasta la entrega al cliente y el proceso comercial de pago por adquirir el producto.
     .titulo-icono.mb-4
       .titulo-icono__texto: h4.text-white.mb-0 Control de stock
     .row.justify-content-center.mb-5
@@ -420,8 +417,7 @@
       .col-lg-4.col-8: img(src='@/assets/curso/temas/tema7/33.png', alt='')
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
       h5 Figura 10
-      br
-      span.fst-italic Diagrama de sistemas de control stock
+      span Diagrama de sistemas de control stock
     img.mb-5(src='@/assets/curso/temas/tema7/34.svg', alt='La figura representa un diagrama de sistemas de control de stock. Comienza con los sistemas de control de stock de inventario, las cantidades de pedidos, el stock de seguridad, el nivel de almacenamiento y el tiempo de entrega. Estos elementos conducen al sistema de equilibrio de almacenamiento.')
     .titulo-icono.mb-4
       .titulo-icono__texto: h4.text-white.mb-0 Inventarios de acuerdo con las órdenes de producción
@@ -434,8 +430,7 @@
       .col-lg-4.col-8: img(src='@/assets/curso/temas/tema7/35.png', alt='')
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
       h5 Figura 11
-      br
-      span.fst-italic Ejemplo de un esquema de departamentos y rotación de inventarios
+      span Ejemplo de un esquema de departamentos y rotación de inventarios
     img(src='@/assets/curso/temas/tema7/36.svg', alt='La figura representa un esquema de departamentos y rotación de inventarios. Inicia con la gestión de información y desarrollo del diseño del producto, pasa por los proveedores de suministros y finaliza con el flujo de proceso del desarrollo del producto, integrándose a través de cada proceso productivo.').mb-5
     p.mb-5(data-aos='fade-right') En la figura anterior se muestra un ejemplo de esquema por departamentos, que ilustra cómo diferentes partes de la creación de una prenda manufacturada se integran desde el desarrollo del diseño hasta la entrega final del producto en las tiendas para su venta y la obtención de ganancias. Cada departamento desempeña un papel fundamental en el proceso productivo, lo que permite trabajar de manera ordenada y eficiente para cumplir con las tareas establecidas que son:
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
@@ -472,8 +467,8 @@
     p.mb-5(data-aos='fade-right') La producción de prendas de vestir es un proceso complejo que involucra diversas etapas, desde la adquisición de insumos hasta el almacenamiento y distribución de las prendas terminadas. Cada una de estas etapas requiere de un minucioso proceso de planificación y gestión de inventarios para asegurar la disponibilidad de los materiales y equipos necesarios, así como para garantizar la calidad de los productos finales. En este contexto, el método justo a tiempo se ha convertido en una estrategia clave para optimizar los procesos de producción y reducir los costos asociados al almacenamiento de inventario. En el siguiente video, se presentará una descripción detallada del proceso de producción de prendas de vestir, haciendo énfasis en la importancia del inventario justo a tiempo en cada una de sus etapas:
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/Jdc0DozHoE0?si=wTTd6s4E0go1G4J0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Ejemplo de tareas
     p.mb-5(data-aos='fade-right') La conclusión es que, una vez que los insumos llegan al centro de suministros, se convierten en inventarios iniciales. A medida que se entregan parcialmente los insumos según los requerimientos de cada una de las plantas de producción, se consideran inventarios en proceso. Finalmente, cuando las prendas terminadas llegan al centro de distribución y se realiza el proceso logístico, se convierten en inventario final. De esta forma, se puede tener un control y seguimiento eficiente de los inventarios, permitiendo una gestión adecuada de los recursos y una optimización de los procesos productivos.
     .row.justify-content-center.mb-5
       .col-lg-8.mb-lg-0.mb-3
@@ -481,7 +476,7 @@
           .row.justify-content-center.align-items-center
             .col-2: img(src='@/assets/curso/temas/tema7/42.svg', alt='')
             .col-lg-10: p Los inventarios solicitados según las órdenes de producción se generan desde el proceso de aprobación de los departamentos administrativos de la compañía. El departamento de compras se encarga de gestionar los requerimientos de acuerdo con el cargue de la creación de la prenda o producto a desarrollar.
-        p Para optimizar la gestión de los inventarios, se utilizan herramientas de programación de software que permiten reservar los inventarios en caso de que se creen referencias que compartan insumos, evitando solicitudes dobles o que se crea que hay inventario disponible pero este ya esté reservado para otras referencias. 
+        p Para optimizar la gestión de los inventarios, se utilizan herramientas de programación de #[em software] que permiten reservar los inventarios en caso de que se creen referencias que compartan insumos, evitando solicitudes dobles o que se crea que hay inventario disponible, pero este ya esté reservado para otras referencias. 
       .col-lg-4.col-8: img(src='@/assets/curso/temas/tema7/43.png', alt='')
     Separador
     #t_7_5.titulo-segundo.color-acento-contenido(data-aos='fade-right')
@@ -489,8 +484,7 @@
     p Los costos de sostener y mantener los inventarios por almacenamiento y ordenamiento generan una sumatoria de costos y gastos, la cual será representada en la siguiente figura 12:
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
       h5 Figura 12
-      br
-      span.fst-italic Descripción gráfica de la clasificación de los costos de inventarios.
+      span Descripción gráfica de la clasificación de los costos de inventarios.
     .row.justify-content-center.mb-5
       .col-lg-8: img(src='@/assets/curso/temas/tema7/44.svg', alt='La figura muestra la descripción gráfica de la clasificación de los costos de inventario. Estos se dividen en diferentes categorías: los costos de hacer un pedido, que incluyen los costos de gestión y control; los costos y gastos de mantener un inventario, que engloban los costos de almacenamiento, inversión, seguros, pólizas, gastos de impuestos y costos de riesgo. Finalmente, se incluyen los costos de falta de existencias, que involucran los costos por daños a unidades, pérdida de ventas y pedidos pendientes.')
     p.mb-5(data-aos='fade-right') Se dará explicación a cada punto mencionado en la secuencia y caracterización de los costos de inventarios:
@@ -499,37 +493,37 @@
     p.mb-5(data-aos='fade-right') También conocido como costo de emisión de pedidos, se refiere a las acciones relacionadas con la adquisición de los suministros necesarios para la elaboración de los lotes de producción. Este costo incluye los gastos asociados con la gestión del pedido a través de los diferentes departamentos, así como el manejo de los materiales para la transmisión del pedido hasta su llegada a la bodega de suministros donde se debe procesar y suministrar.
     .tarjeta.bg-card.p-5.mb-5 
         LineaTiempoC.color-acento-contenido(text-small)
-          .row(titulo="Paso")
+          .row(titulo="1")
             .col-md-8.mb-4.mb-md-0
               h4 El costo de hacer pedidos
               p También conocido como costo de emisión de pedidos, se refiere a las acciones relacionadas con la adquisición de los suministros necesarios para la elaboración de los lotes de producción. Este costo incluye los gastos asociados con la gestión del pedido a través de los diferentes departamentos, así como el manejo de los materiales para la transmisión del pedido hasta su llegada a la bodega de suministros donde se debe procesar y suministrar.
             .col-md-4: img(src='@/assets/curso/temas/tema7/45.png', alt='')
-          .row(titulo="Paso")
+          .row(titulo="2")
             .col-md-8.mb-4.mb-md-0
               h4 El costo de almacenamiento
               p Se refiere a aquellos artículos cuyo comportamiento por periodos determinados está directamente relacionado con la cantidad promedio de insumos disponibles en la bodega de suministros. Los costos de espacio son generados por los metros de las bodegas donde se almacenan los inventarios o suministros, y se realiza una distribución de almacenamiento adecuada conforme a las recomendaciones de almacenamiento de los productos. El cálculo de costos está dado por la ocupación de la bodega, ya sea alquilada, en metros cuadrados o cúbicos por mes, o si la bodega es propia, de todas maneras hay costos asociados a su mantenimiento y uso.
             .col-md-4: img(src='@/assets/curso/temas/tema7/46.png', alt='')
-          .row(titulo="Paso")
+          .row(titulo="3")
             .col-md-8.mb-4.mb-md-0
               h4 El costo de inversión u oportunidad
               p Tiene como propósito plantear una tasa promedio de recuperación de inversión y el tiempo en el cual esta retornará a la compañía para ser utilizada nuevamente como retorno de inversión.
             .col-md-4: img(src='@/assets/curso/temas/tema7/47.png', alt='')
-          .row(titulo="Paso")
+          .row(titulo="4")
             .col-md-8.mb-4.mb-md-0
               h4 Gastos de seguros y pólizas
               p Se deben tomar las medidas suficientes que permitan minimizar riesgos como incendios y daños que puedan generar pérdidas enormes de unidades.
             .col-md-4: img(src='@/assets/curso/temas/tema7/48.png', alt='')
-          .row(titulo="Paso")
+          .row(titulo="5")
             .col-md-8.mb-4.mb-md-0
               h4 Gastos por impuestos
               p Se debe asegurar una correcta política tributaria de la compañía que abarque desde la compra de la materia prima hasta la venta final y la contribución tributaria de los rendimientos de la actividad comercial.
             .col-md-4: img(src='@/assets/curso/temas/tema7/49.png', alt='')
-          .row(titulo="Paso")
+          .row(titulo="6")
             .col-md-8.mb-4.mb-md-0
               h4 Los costos de riesgos por inventario
               p Se refieren a las pérdidas, daños o robos que pueden ocurrir debido a la falta de rotación de las unidades de inventario. Este problema puede ser especialmente grave en el caso de artículos con fechas de vencimiento o un ciclo de vida corto. Además, los costos asociados con la falta de existencias o daños en el almacenamiento en los puntos de venta pueden resultar en la cancelación de órdenes de compra y la pérdida de ingresos para la compañía, así como en clientes insatisfechos.
             .col-md-4: img(src='@/assets/curso/temas/tema7/50.png', alt='')
-          .row(titulo="Paso")
+          .row(titulo="7")
             .col-md-8.mb-4.mb-md-0
               h4 El costo de los pedidos
               p Se refiere a los costos asociados con la solicitud de un producto por parte de un cliente, ya sea a través de una compra física o por otros medios. Si la empresa no tiene el producto en su inventario, será necesario traerlo de otro punto de venta o proveedor, lo que generará costos adicionales para la compañía.

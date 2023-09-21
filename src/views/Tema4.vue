@@ -50,7 +50,7 @@
                 | Calificaciones y certificaciones.
               li
                 i.fas.fa-tshirt(style="color: #12263F") 
-                | Cumplimiento y portafolio de servicios
+                | Cumplimiento y portafolio de servicios.
       .col-xl-3.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
@@ -67,7 +67,7 @@
                 | Tecnología actualizada.
               li
                 i.fas.fa-tshirt(style="color: #12263F") 
-                | Información pertinente sobre máquinas y herramientas
+                | Información pertinente sobre máquinas y herramientas.
       .col-xl-3.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img

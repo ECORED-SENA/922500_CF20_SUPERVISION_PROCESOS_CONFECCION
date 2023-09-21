@@ -161,62 +161,62 @@ export default {
   complementario: [
     {
       tema: 'Enfoque de la calidad desde su entorno',
-      referencia: 'Salvador, S. (2015) ¿Qué es la calidad? [Vídeo]. YouTube. ',
+      referencia: 'Salvador, S. (2015) <em>¿Qué es la calidad?</em>. YouTube. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=Qx80GpgUfag&feature=youtu.be',
     },
     {
       tema: 'Sistema de Gestión de Calidad SGC',
       referencia:
-        'Virtual Training Lteam. (2016). Beneficios de un sistema de Gestión de calidad. [Vídeo]. YouTube. ',
+        'Virtual Training Lteam. (2016). <em>Beneficios de un sistema de Gestión de calidad.</em> YouTube. ',
       tipo: 'Vídeo',
       link: 'https://www.youtube.com/watch?v=yOImNgNYoMg',
     },
     {
       tema: 'Sistema de Gestión de Calidad SGC',
       referencia:
-        'Procem Consultores. (2019) ¿Qué son las Normas ISO? [Vídeo]. YouTube.',
+        'Procem Consultores. (2019) <em>¿Qué son las Normas ISO?</em>. YouTube.',
       tipo: 'Vídeo',
       link: 'https://www.youtube.com/watch?v=QrWsBj6ARG0',
     },
     {
       tema: 'Control de calidad ',
       referencia:
-        'Gutiérrez Pulido, H. (2013). Control estadístico de la calidad y Seis Sigma.Tercera edición McGraw-Hill Interamericana.',
+        'Gutiérrez Pulido, H. (2013). <em>Control estadístico de la calidad y Seis Sigma</em>.Tercera edición McGraw-Hill Interamericana.',
       tipo: 'Libro',
       link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=280',
     },
     {
       tema: 'Control de calidad ',
       referencia:
-        'Evans, J. R. & Lindsay, W. M. (2020). Administración y control de la calidad. Cengage Learning. ',
+        'Evans, J. R. & Lindsay, W. M. (2020). <em>Administración y control de la calidad. Cengage Learning.</em> ',
       tipo: 'Libro',
       link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=10765      ',
     },
     {
       tema: 'Métodos de inventarios',
-      referencia: 'SENA. (2021). Métodos de inventarios. ',
-      tipo: 'PDF ',
-      descarga: '/prueba.pdf',
+      referencia: 'SENA. (2021). <em>Métodos de inventarios.</em> ',
+      tipo: 'PDF',
+      descarga: '/downloads/Anexo_01.pdf',
     },
     {
       tema: 'Finalidad de los tipos de inventarios',
       referencia:
-        'Goal Project. (s.f.). Introducción a la administración de inventarios. [Video]. YouTube.  ',
+        'Goal Project. (s.f.). <em>Introducción a la administración de inventarios.</em>  YouTube.  ',
       tipo: 'Video',
       link: 'https://youtu.be/eWULmSLfu3E  ',
     },
     {
       tema: 'Sistema de inventario periódico',
       referencia:
-        'Contabilidad Más Excel. (2020). 20 Qué son los Sistemas de Inventario Permanente y Periódico. [Video]. YouTube. ',
+        'Contabilidad Más Excel. (2020). 20 <em>Qué son los Sistemas de Inventario Permanente y Periódico.</em> YouTube. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=_TZp8zVILo0  ',
     },
     {
       tema: 'Sistema de inventario periódico',
       referencia:
-        'FAEDIS. (s.f.). Unidad 2. Sistema del inventario periódico. Universidad Militar Nueva Granada. ',
+        'FAEDIS. (s.f.). Unidad 2. <em>Sistema del inventario periódico. Universidad Militar Nueva Granada.</em> ',
       tipo: 'Página web ',
       link:
         'http://virtual.umng.edu.co/distancia/ecosistema/ovas/administracion_empresas/contabilidad_de_costos/unidad_2/medios/documentacion/p4h1.pdf  ',
@@ -325,35 +325,35 @@ export default {
   referencias: [
     {
       referencia:
-        'Alliot Group. (2013). Niveles de Inventarios Adecuados. FAEDIS. (2019). Unidad 3. Gestión de Inventarios. ',
+        'Alliot Group. (2013). <em>Niveles de Inventarios Adecuados.</em> FAEDIS. (2019). Unidad 3. Gestión de Inventarios. ',
       link:
         'http://virtual.umng.edu.co/distancia/ecosistema/ovas/administracion_empresas/logistica/unidad_3/DM.pdf',
     },
     {
       referencia:
-        'Gutiérrez Pulido, H. (2020). Calidad y productividad. Quinta edición McGraw-Hill Interamericana',
+        'Gutiérrez Pulido, H. (2020). <em>Calidad y productividad.</em> Quinta edición McGraw-Hill Interamericana',
       link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=10411',
     },
     {
       referencia:
-        'Martínez Robles, A. (2013). Capítulo II Los Inventarios. Control de inventario con análisis de la demanda para la empresa “Sport B”. [Tesis de grado] Oficina General del sistema de Bibliotecas UNMSM.',
+        'Martínez Robles, A. (2013). <em>Capítulo II Los Inventarios. Control de inventario con análisis de la demanda para la empresa “Sport B”.</em> [Tesis de grado] Oficina General del sistema de Bibliotecas UNMSM.',
       link:
         'http://w4.escolapia.cat/terrassa/aulavirtual/assignat/empresa/Inventaris_esp.pdf',
     },
     {
       referencia:
-        'Martínez Robles, A. (2013). Capítulo III Sistemas de Inventarios. Control de inventario con análisis de la demanda para la empresa “Sport B”. [Tesis de grado] Oficina General del sistema de Bibliotecas UNMSM. ',
+        'Martínez Robles, A. (2013). <em>Capítulo III Sistemas de Inventarios. Control de inventario con análisis de la demanda para la empresa “Sport B”.</em> [Tesis de grado] Oficina General del sistema de Bibliotecas UNMSM. ',
       link:
         'http://sisbib.unmsm.edu.pe/bibvirtualdata/tesis/basic/martinez_ra/cap03.pdf',
     },
     {
       referencia:
-        'Negocios, Marketing y Finanzas. (2019). Tipos de inventarios. yosoyempleo ',
+        'Negocios, Marketing y Finanzas. (2019). <em>Tipos de inventarios.</em> yosoyempleo ',
       link: 'https://yosoyempleo.es/tipos-de-inventarios/',
     },
     {
       referencia:
-        'Universidad Continental. (2017). ¿Qué es la certificación ISO y por qué es importante? [Articulo Blog]. ',
+        'Universidad Continental. (2017). <em>¿Qué es la certificación ISO y por qué es importante? </em>[Articulo Blog]. ',
       link:
         'https://ucontinental.edu.pe/logros-uc/iso-9001/la-certificacion-iso-importante/ ',
     },
@@ -379,10 +379,56 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
+          nombre: 'Ericka Alexandra Blanco Sánchez',
+          cargo: 'Experto Temático',
+          centro: 'Regional Antioquía - Diseño, confección y moda',
+        },
+        {
+          nombre: 'Liliana María Ceballos Gutiérrez',
+          cargo: 'Asesora Metodóloga Diseño y Desarrollo Curricular',
+          centro: 'Regional Antioquía - Diseño, confección y moda',
+        },
+        {
+          nombre: 'Víctor Manuel Isaza Córdoba',
+          cargo: 'Diseño y Desarrollo Curricular',
+          centro: 'Regional Antioquía - Diseño, confección y moda',
+        },
+        {
+          nombre: 'Pedro Luis Sossa Ramírez',
+          cargo: 'Diseño y Desarrollo Curricular',
+          centro: 'Regional Antioquía - Diseño, confección y moda',
+        },
+        {
+          nombre: 'María Inés Machado Lópe',
+          cargo: 'Diseñadora Instruccional',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Vilma Lucia Perilla',
+          cargo: 'Diseñadora Instruccional',
+          centro: 'Regional Distrito Capital – Centro de Gestión Industrial',
+        },
+        {
+          nombre: 'Andrés Felipe Velandia Espitia',
+          cargo: 'Revisor Metodológico y Pedagógico',
+          centro: 'Regional Distrito Capital – Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Asesor pedagógico',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Jhon Jairo Rodríguez Pérez',
+          cargo: 'Diseñador y evaluador instruccional',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Paola Alexandra Moya Peralta',
+          cargo: 'Diseñador instruccional',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura.',
         },
       ],
     },
@@ -390,25 +436,49 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Fabian Zarate',
           cargo: 'Diseñador de Contenidos Digitales',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Camilo Andres Bolaño Rey',
           cargo: 'Desarrollador Fullstack',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
+          nombre: 'Wilson Andrés Arenales Cáceres ',
+          cargo: 'Storyboard e Ilustración ',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
-          nombre: 'Nombre',
+          nombre: 'Carmen Alicia Martinez Torres ',
+          cargo: 'Animador y Productor Multimedia',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Carlos Eduardo Garavito Parada ',
+          cargo: 'Animador y Productor Multimedia',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Mary Jeans Palacio ',
+          cargo: 'Animador y Productor Multimedia',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Camilo Andrés Bolaño Rey',
+          cargo: 'Locución',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Camilo Andres Bolaño Rey',
           cargo: 'Actividad Didáctica',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
