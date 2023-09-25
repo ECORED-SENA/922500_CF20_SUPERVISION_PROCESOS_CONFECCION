@@ -360,7 +360,7 @@
       .col-lg-8.mb-lg-0.mb-3
         .p-4(style="background-color: #F6F6F6")
           .titulo-sexto.color-acento-contenido
-            h5 Figura 9 
+            h5 Figura 9. 
             span Representación gráfica CEP (Cantidad económica de pedidos)
           img(src='@/assets/curso/temas/tema7/30.svg', alt='La figura representa la curva de la cantidad económica de pedido, la cual considera los distintos costos financieros y operativos para determinar el monto óptimo de pedido que minimiza los costos de inventario de la empresa.')
       .col-lg-4
@@ -417,7 +417,7 @@
       .col-lg-4.col-8: img(src='@/assets/curso/temas/tema7/33.png', alt='')
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
       h5 Figura 10.
-      span Diagrama de sistemas de control stock
+      span Diagrama de sistemas de control #[em stock]
     img.mb-5(src='@/assets/curso/temas/tema7/34.svg', alt='La figura representa un diagrama de sistemas de control de stock. Comienza con los sistemas de control de stock de inventario, las cantidades de pedidos, el stock de seguridad, el nivel de almacenamiento y el tiempo de entrega. Estos elementos conducen al sistema de equilibrio de almacenamiento.')
     .titulo-icono.mb-4
       .titulo-icono__texto: h4.text-white.mb-0 Inventarios de acuerdo con las órdenes de producción

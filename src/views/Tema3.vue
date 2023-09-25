@@ -110,7 +110,7 @@
         .p-5(style="background-color: #E8E8E8").h-100.d-flex.align-items-center
           p.mb-0 Al documentar estos procesos, se está asegurando que en el futuro se seguirán las directrices aquí plasmadas, a lo que se denomina “Procedimiento de trabajo”. Estos procedimientos de trabajo o documentación de procesos son fundamentales en las empresas, así no será necesario que las personas realicen las actividades de diferentes maneras, si todo el personal sigue las instrucciones de acuerdo al documento, se estará hablando de procesos normalizados o estandarizados.
     p.mb-5(data-aos='fade-right') Los documentos de los procesos deben tener una ruta de acuerdo con el tema, la fecha y las responsabilidades del personal. De igual manera sus modificaciones o actualizaciones deben quedar registradas.
-    h4: span.color-acento-contenido e) Políticas de calidad.
+    h4: span.color-acento-contenido e) Políticas de calidad
     p.mb-5(data-aos='fade-right') La política de la calidad es una de las primeras acciones que se establecen cuando se inicia la implantación de un Sistema de Gestión de la Calidad. Es una de las actividades de la Alta Dirección y contiene orientaciones generales, intenciones y objetivos de la organización referente a la calidad. A continuación, se ven cuáles son:
     .row.justify-content-center.mb-5
       .col-lg-8.mb-lg-0.mb-3
@@ -136,7 +136,7 @@
           span Descripción de una situación, como cumplimiento de una política.
         .row.justify-content-center.mb-5
           .col-lg-8: img(src='@/assets/curso/temas/tema3/15.svg', alt='')
-    h4: span.color-acento-contenido f) Objetivos de la calidad.
+    h4: span.color-acento-contenido f) Objetivos de la calidad
     .row.justify-content-center.mb-5.g-0
       .col-lg-4: img(src='@/assets/curso/temas/tema3/16.jpg', alt='')
       .col-lg-8
