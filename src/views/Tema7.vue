@@ -227,7 +227,7 @@
       .titulo-icono__texto: h4.text-white.mb-0 Clasificación ABC
     p.mb-5(data-aos='fade-right') Esta metodología de clasificación funciona por medio de la segmentación de los productos donde tienen unos criterios como indicadores de importancia de las solicitudes a proveedores y el costo de adquirir estos insumos o en su caso el costo de mantener este inventario almacenado (ver figura 7).
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-      h5 Figura 7
+      h5 Figura 7.
       span Clasificación de los inventarios ABC
     .row.justify-content-center.mb-5
       .col-lg-8: img(src='@/assets/curso/temas/tema7/24.svg', alt='La figura explica la clasificación ABC de inventarios en tres categorías: A, B y C. La categoría A comprende productos de alto valor y alto flujo de inventario, con análisis comercial detallado y registros actualizados. La categoría B incluye mercancías con ventas moderadas pero alta rotación, requiriendo mantenimiento y atención. La categoría C abarca productos de baja rotación debido a bajas ventas, con énfasis en simplificar el control de costos e impulsar la rotación de inventarios.') 
@@ -280,7 +280,7 @@
       .col-lg-8
         .tarjeta.bg-white.p-4
           .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-            h5 Figura 8
+            h5 Figura 8.
             span  Ejemplo de lote óptimo
           img(src='@/assets/curso/temas/tema7/26.svg', alt='La figura muestra el lote óptimo, el cual busca calcular la cantidad óptima de unidades en un lote de producción. En esta figura se considera el tiempo de entrega y el periodo que transcurre desde la emisión de la orden de compra hasta la recepción del pedido. No se toman en cuenta el inventario en stock ni los beneficios o costos asociados con mantener un inventario almacenado. El objetivo es determinar el volumen de pedido que resulte en los costos totales más bajos, teniendo en cuenta tanto los costos de pedido como los costos de mantenimiento.')
     p.mb-5(data-aos='fade-right') Cuando se implementan o desarrollan las teorías planteadas por profesionales que tienen experiencia, la gráfica queda con la expresión de una sierra. El grafico debe ser planteado por los periodos en que el producto tiene los comportamientos, bien sea por trimestres, semanas o meses.
@@ -416,7 +416,7 @@
             .col-lg-10: p Un buen análisis de la oferta y la demanda, así como los cálculos de costos, son variables primordiales para controlar y conocer en la planificación y ejecución de los procesos productivos. Esto permite tomar decisiones informadas, con el objetivo principal de ofrecer un nivel de servicio óptimo para las personas que componen el equipo de trabajo empresarial y para cumplir con los clientes. La figura 10  ilustra la relación entre estas variables
       .col-lg-4.col-8: img(src='@/assets/curso/temas/tema7/33.png', alt='')
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-      h5 Figura 10
+      h5 Figura 10.
       span Diagrama de sistemas de control stock
     img.mb-5(src='@/assets/curso/temas/tema7/34.svg', alt='La figura representa un diagrama de sistemas de control de stock. Comienza con los sistemas de control de stock de inventario, las cantidades de pedidos, el stock de seguridad, el nivel de almacenamiento y el tiempo de entrega. Estos elementos conducen al sistema de equilibrio de almacenamiento.')
     .titulo-icono.mb-4
@@ -429,7 +429,7 @@
         p La planeación adoptada por la compañía suele incluir las referencias y las cantidades proyectadas para las ventas, lo que permite determinar el consumo de insumos y las herramientas necesarias para la ejecución de la colección en las plantas de producción. De esta manera, se pueden integrar los componentes de cada prenda y alcanzar el objetivo final de crear productos de óptima calidad con la cantidad adecuada de unidades para surtir los almacenes y generar ventas. La figura 10 ilustra este proceso.
       .col-lg-4.col-8: img(src='@/assets/curso/temas/tema7/35.png', alt='')
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-      h5 Figura 11
+      h5 Figura 11.
       span Ejemplo de un esquema de departamentos y rotación de inventarios
     img(src='@/assets/curso/temas/tema7/36.svg', alt='La figura representa un esquema de departamentos y rotación de inventarios. Inicia con la gestión de información y desarrollo del diseño del producto, pasa por los proveedores de suministros y finaliza con el flujo de proceso del desarrollo del producto, integrándose a través de cada proceso productivo.').mb-5
     p.mb-5(data-aos='fade-right') En la figura anterior se muestra un ejemplo de esquema por departamentos, que ilustra cómo diferentes partes de la creación de una prenda manufacturada se integran desde el desarrollo del diseño hasta la entrega final del producto en las tiendas para su venta y la obtención de ganancias. Cada departamento desempeña un papel fundamental en el proceso productivo, lo que permite trabajar de manera ordenada y eficiente para cumplir con las tareas establecidas que son:
@@ -483,7 +483,7 @@
       h2 7.5 Costos de inventarios
     p Los costos de sostener y mantener los inventarios por almacenamiento y ordenamiento generan una sumatoria de costos y gastos, la cual será representada en la siguiente figura 12:
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-      h5 Figura 12
+      h5 Figura 12.
       span Descripción gráfica de la clasificación de los costos de inventarios.
     .row.justify-content-center.mb-5
       .col-lg-8: img(src='@/assets/curso/temas/tema7/44.svg', alt='La figura muestra la descripción gráfica de la clasificación de los costos de inventario. Estos se dividen en diferentes categorías: los costos de hacer un pedido, que incluyen los costos de gestión y control; los costos y gastos de mantener un inventario, que engloban los costos de almacenamiento, inversión, seguros, pólizas, gastos de impuestos y costos de riesgo. Finalmente, se incluyen los costos de falta de existencias, que involucran los costos por daños a unidades, pérdida de ventas y pedidos pendientes.')

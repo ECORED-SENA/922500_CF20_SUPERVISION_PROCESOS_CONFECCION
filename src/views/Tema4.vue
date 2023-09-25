@@ -30,7 +30,7 @@
                 | Conocimiento de los procesos y los equipos.
               li
                 i.fas.fa-tshirt(style="color: #12263F") 
-                | Programas de mejoramiento y reconocimientos
+                | Programas de mejoramiento y reconocimientos.
       .col-xl-3.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
@@ -90,7 +90,7 @@
                 | Sistemas de producción.
               li
                 i.fas.fa-tshirt(style="color: #12263F") 
-                | Sistemas de Información
+                | Sistemas de Información.
     p.mb-5(data-aos='fade-right') Los demás aspectos importantes que se consideran al iniciar negocios entre dos compañías requieren un proceso que puede tomar tiempo, dependiendo del tamaño del negocio, la naturaleza de las compañías y la duración prevista de la relación. Esta evaluación minuciosa se realiza para determinar si la relación comercial es viable o no, y puede llevar días, semanas, meses e incluso años. Anteriormente, esta actividad era costosa y a menudo generaba obstáculos en el desarrollo normal de la producción y la comercialización a nivel mundial.
     .row.justify-content-center.mb-5.g-0
       .col-lg-4: img(src='@/assets/curso/temas/tema3/13.jpg', alt='')

@@ -18,7 +18,7 @@
     .row.justify-content-center.align-items-end.mb-5
       .col-lg-6.col-8.mb-lg-0.mb-3
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 5
+          h5 Figura 5.
           span Actores del SGC
         img(src='@/assets/curso/temas/tema5/2.svg', alt='La figura menciona los actores del sistema de gestión de la calidad, los cuales son: clientes, trabajadores, proveedores, sociedad, capital y el estado.')
       .col-lg-6
@@ -129,7 +129,7 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Tabla 2
+          h5 Tabla 2.
           span Ejemplo de instrucciones para operaria
         .tabla-a.color-acento-botones.mb-5
           table
@@ -238,7 +238,7 @@
       br
       span.color-acento-contenido.fw-bold Teniendo en cuenta lo anterior, es importante que se conozca un formato para elaborar la planeación de un control de calidad:
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-      h5 Tabla 3
+      h5 Tabla 3.
       span Formato para planear control de calidad
     .tabla-a.color-acento-botones.mb-5
         table
@@ -273,7 +273,7 @@
           | Pero, ¿cómo se  aplica esto? #[span.color-acento-contenido.fw-bold En el siguiente recurso educativo, se podrá observar el seguimiento al control que se le realiza a los procesos y actividades, consignando los hallazgos y las acciones de mejora:]
       .col-lg-4.col-8: img(src='@/assets/curso/temas/tema5/7.jpg', alt='')
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-      h5 Figura 6
+      h5 Figura 6.
       span  Control de la calidad
     img(src='@/assets/curso/temas/tema5/8.svg', alt='La figura explica el seguimiento al control de calidad que se realiza a los procesos y actividades de confección. Se evalúan cuatro etapas clave: diseño, corte, confección y acabado. Se consideran aspectos a revisar, se utilizan documentos y herramientas específicas, se identifican hallazgos y se implementan acciones de mejora.')
     .titulo-icono.mb-4

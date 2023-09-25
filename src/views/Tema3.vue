@@ -12,7 +12,7 @@
         .p-5(style="background-color: #D2E1F1").h-100.d-flex.align-items-center
           p.mb-0 Para poder llevar a cabo acciones que intervengan los procesos en las empresas, en lo que se refiere a calidad, es necesario que exista una coordinación de los recursos que participan en estos procesos: una estructura que organice y oriente la fuerza de trabajo. Debe llevar documentos y registros, y debe estar alineada con los procedimientos técnicos y administrativos; y que siempre esté enfocada al cumplimiento de requisitos y especificaciones.
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-      h5 Figura 2
+      h5 Figura 2.
       span Sistema de Gestión de Calidad
     .row.justify-content-center.mb-5
       .col-lg-7.col-8: img(src='@/assets/curso/temas/tema3/2.svg', alt='') 
@@ -73,7 +73,7 @@
               p Las metas, el enfoque de adonde se están orientando todos los esfuerzos mancomunados.
             .col-1: img(src='@/assets/curso/temas/tema3/8.svg', alt='')
     h4
-      span.color-acento-contenido a. Recursos.
+      span.color-acento-contenido a) Recursos
     p La organización debe determinar y proporcionar los recursos necesarios para el establecimiento, implementación, mantenimiento y mejora continua del SGC. Considerando las capacidades y limitaciones de los recursos internos existentes, y tener claridad de lo que se requiere de los proveedores externos.
       br
       br
@@ -90,17 +90,17 @@
           h4 Recursos económicos
           p.mb-0 El dinero es un factor importante en el mejoramiento, pero para implementar un sistema de gestión de calidad (SGC) no se requieren sumas elevadas. La capacitación del personal no es costosa ni difícil, y existen #[em software] diseñados para documentar y llevar registros a precios asequibles. Los indicadores y formatos se pueden crear en Excel y Word. Lo importante es que el SGC cumpla con la misión del sistema.
     h4 
-      span.color-acento-contenido b. Equipos y logística.
+      span.color-acento-contenido b) Equipos y logística
     p Inicialmente se debe tener en cuenta que sin máquinas e infraestructura no es posible tener una planta de producción, este equipo y estos edificios deben ser coherentes con la facturación esperada y con la capacidad instalada. Si el SGC va a coordinar y orientar todas las áreas, se va a encargar de que haya coherencia en el sistema, y dicte normativas de acuerdo con las dimensiones de la compañía. Toda la manera como funcione esta área y como se le haga el respectivo mantenimiento, está dentro del sistema de gestión de calidad.
     .row.justify-content-center.mb-5
       .col-lg-8.mb-lg-0.mb-3
-        h4: span.color-acento-contenido c. Competencias y experiencia.
+        h4: span.color-acento-contenido c) Competencias y experiencia
         p: |Es otro de los recursos que se deben incorporar al SGC, solo se consigue una buena gestión para lograr la calidad, cuando se sabe sacar adelante todos los proyectos y se requiere aprovechar las experiencias exitosas y las no exitosas, todos estos aprendizajes deben quedar registrados y el nombre técnico utilizado es el de lecciones aprendidas, en las organizaciones es importante que se evolucione mediante la consideración constante de los resultados anteriores.
-        h4: span.color-acento-contenido d. Procesos.
+        h4: span.color-acento-contenido d) Procesos
         p Uno de los objetivos más importantes del SGC, es el de hacer interactuar todas las áreas de manera adecuada para obtener la mayor cantidad de beneficios. Donde más incide la mejora o la ausencia de esta, es en las plantas de producción, en los procesos, las operaciones o las actividades de transformación. Saber y comprender, en cada uno de los procesos, cuáles son las entradas, las transformaciones y las salidas, permite identificar en qué pasos se puede implementar una acción de mejora, los sistemas de gestión deben estar siempre enfocados en procesos. #[span.color-acento-contenido.fw-bold De allí la importancia de realizar un mapa de procesos, para visualizar la situación actual, como se puede observar en la siguiente figura 3:]
       .col-lg-4.col-8: img(src='@/assets/curso/temas/tema3/11.png', alt='')
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-      h5 Figura 3
+      h5 Figura 3.
       span Siete razones para documentar procesos
     .row.justify-content-center.mb-5
       .col-lg-7: img(src='@/assets/curso/temas/tema3/12.svg', alt='La figura explica las siete razones para documentar procesos. Estas razones incluyen: que todos trabajen del mismo modo, conozcan cómo documentar tareas, se elimine la concentración de conocimientos especializados, se mejoren los procesos al estar redactados, se obtenga agilidad en las nuevas incorporaciones, se aprovechen las lecciones aprendidas y se brinde ayuda en la medición de resultados.')
@@ -132,7 +132,7 @@
     .row.justify-content-center.mb-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 4
+          h5 Figura 4.
           span Descripción de una situación, como cumplimiento de una política.
         .row.justify-content-center.mb-5
           .col-lg-8: img(src='@/assets/curso/temas/tema3/15.svg', alt='')
@@ -149,7 +149,7 @@
           .row.justify-content-center.mb-3
             .col-5
               img(src='@/assets/curso/temas/tema3/17.svg' alt='AvatarTop')
-          h4.text-center #[em Specific] / específico
+          h4.text-center #[em Specific]/ específico
           p.text-center No debe ser etéreo, el objetivo debe contener una descripción muy detallada.
       .col-lg-3.mb-lg-0.mb-3
         .tarjeta.p-4(style="background-color: #FFA884 ").h-100
@@ -174,7 +174,7 @@
           p.text-center Que sea práctico, que esté enfocado a los resultados coherentes con las políticas y la misión de la empresa.
     p Es importante establecer las metas generales de la organización antes de empezar a construir los objetivos #[span.color-acento-contenido.fw-bold SMART], no se debe perder el enfoque y además ayuda a delegar responsabilidades y saber de qué manera se le hace el seguimiento al cumplimiento de los objetivos desde el SGC. Para esto en la siguiente tabla se puede observar un ejemplo de las variables a tener en cuenta en el seguimiento del cumplimiento de objetivos:
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-      h5 Tabla 1. 
+      h5 Tabla 1. .
       span Ejemplo de seguimiento en el cumplimiento de objetivos en una empresa en lavandería de prendas 
     .tabla-a.color-acento-contenido.mb-5
       table

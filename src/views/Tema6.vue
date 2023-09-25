@@ -176,7 +176,7 @@
         p A continuación, se presenta un ejemplo práctico de una matriz de calidad en el proceso de confección. Cada opción evalúa los criterios en función de su nivel de cumplimiento. Lo invitamos a  descargar el archivo adjunto.
       .col-lg-4.col-8: img(src='@/assets/curso/temas/tema6/16.png', alt='')
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-      h5 Tabla 4
+      h5 Tabla 4.
       span.fst-italic Matriz de calidad en proceso
     img.mb-4(src='@/assets/curso/temas/tema6/17.svg', alt='')
     //TODO! PENDIENTE CARGR EL XML 
@@ -205,7 +205,7 @@
                     i.fas.fa-file-download
         p Una matriz de indicadores de control de piso es una herramienta utilizada para monitorear y evaluar diferentes aspectos y variables clave en un entorno de producción o piso de operaciones. Estos indicadores proporcionan información relevante para medir el desempeño, identificar desviaciones y tomar acciones correctivas oportunas. En la tabla 5 se presenta un ejemplo de cómo se puede estructurar este tipo de matriz:
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-      h5 Tabla 5
+      h5 Tabla 5.
       span Matriz de indicadores de control de piso
     .tabla-a.color-acento-botones.mb-5
         table
