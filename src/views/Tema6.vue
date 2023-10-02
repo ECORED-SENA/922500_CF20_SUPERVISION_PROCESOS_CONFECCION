@@ -6,12 +6,12 @@
       .titulo-principal__numero
         span 6
       h1 Control estadístico de la calidad
-    p.mb-5(data-aos='fade-right') Profundizar sobre el estado del arte de la calidad llevaría mucho tiempo, pues el concepto de calidad integra todos los elementos, características y funciones de un producto, que satisfacen necesidades explicitas e implícitas de un cliente. En el concepto de calidad se expresan todos los factores de la competitividad como eje central de la existencia de una corporación u empresa y es un punto clave para entender y atender la productividad. 
+    p.mb-5(data-aos='fade-right') Profundizar sobre el estado del arte de la calidad llevaría mucho tiempo, pues el concepto de calidad integra todos los elementos, características y funciones de un producto, que satisfacen necesidades explícitas e implícitas de un cliente. En el concepto de calidad se expresan todos los factores de la competitividad como eje central de la existencia de una corporación u empresa y es un punto clave para entender y atender la productividad. 
     .row.justify-content-center.mb-5
       .col-lg-8.mb-lg-0.mb-3
         p El control estadístico de la calidad registra sistemáticamente el desempeño de una empresa y destaca la importancia de considerar la opinión de los clientes. Además, contribuye a comprender la variabilidad en los procesos y la importancia del pensamiento estadístico para evaluar el grado de cumplimiento de los requisitos definidos en un manual o ficha técnica. 
         .cajon.color-azul.p-4.mb-4
-          p.mb-0 En conclusión, el control estadístico de la calidad registra documenta y analiza los resultados obtenidos en el procesamiento de materias primas, materiales e insumos, además señalan problemas que se puedan presentar y nombran algunas indicaciones de lo que puede hacerse para resolverlos. 
+          p.mb-0 En conclusión, el control estadístico de la calidad registra, documenta y analiza los resultados obtenidos en el procesamiento de materias primas, materiales e insumos, además señalan problemas que se puedan presentar y nombran algunas indicaciones de lo que puede hacerse para resolverlos. 
       .col-lg-4.col-8: img(src='@/assets/curso/temas/tema6/1.png', alt='')
     .titulo-icono.mb-4
       .titulo-icono__texto: h4.text-white.mb-0 Herramientas del control estadístico de la calidad
@@ -58,7 +58,7 @@
           .col-5
             img(src='@/assets/curso/temas/tema6/6.svg' alt='AvatarTop')
         h4.text-center Que sea objetivo
-        p.text-center Todo el componente humano debe entender para que se diseña el indicador y la necesidad que suple en el proceso de solucionar un evento.
+        p.text-center Todo el componente humano debe entender para qué se diseña el indicador y la necesidad que suple en el proceso de solucionar un evento.
       .tarjeta(style="background-color: #FFA884 ").p-4
         .row.justify-content-center.mb-3
           .col-5
@@ -178,15 +178,15 @@
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
       h5 Tabla 4.
       span.fst-italic Matriz de calidad en proceso
-    img.mb-4(src='@/assets/curso/temas/tema6/17.svg', alt='')
-    //TODO! PENDIENTE CARGR EL XML 
+    img.mb-4(src='@/assets/curso/temas/tema6/17.svg', alt='Matriz de calidad del proceso de confección ')
     .row.justify-content-center.mb-5
       .col-auto
-        a.anexo(href="https://drive.google.com/file/d/1eXU5VbhNu8QbPrB-FyskQ_X8tAIbkuHR/view" target="_blank")
+        a.anexo(:href="obtenerLink('downloads/formato_MCP.xlsx')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-xml.svg")
           .anexo__texto
             p #[b Anexo.] Matriz de calidad en proceso
+            
     .row.justify-content-center.mb-5
       .col-lg-8
         P La matriz de calidad se utiliza para clasificar los tipos de faltas en los que puedan incurrir los colaboradores del proceso tanto en las tareas de máquina como en las tareas manuales.
@@ -200,7 +200,7 @@
                   h4.mb-1 Matriz de chequeo de calidad
                   p.mb-0.text-small A continuación se presenta un ejemplo de Matriz de chequeo de calidad donde se evalúan los diferentes elementos de confección en relación con los requisitos especificados. 
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="https://docs.google.com/document/d/1wD3oByzOhsH4c0oWnUb4DWNBc0hmCOhrMDWG0-nCtyo/edit?usp=sharing" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('downloads/matriz_chequeo_calidad.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
         p Una matriz de indicadores de control de piso es una herramienta utilizada para monitorear y evaluar diferentes aspectos y variables clave en un entorno de producción o piso de operaciones. Estos indicadores proporcionan información relevante para medir el desempeño, identificar desviaciones y tomar acciones correctivas oportunas. En la tabla 5 se presenta un ejemplo de cómo se puede estructurar este tipo de matriz:

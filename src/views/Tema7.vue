@@ -8,7 +8,7 @@
       h1 Gestión de inventarios
     .row.justify-content-center.mb-5
       .col-lg-8.mb-lg-0.mb-3 
-        p El inventario, es una provisión de artículos o materiales que tienen como fin integrarse y así crear nuevos productos para satisfacer la demanda de los clientes.
+        p El inventario es una provisión de artículos o materiales que tienen como fin integrarse y así crear nuevos productos para satisfacer la demanda de los clientes.
         .cajon.color-azul.p-4.mb-4
           p.mb-0 La gestión de inventario es específica para cada organización, a través de esta se busca planificar y controlar las compras, el consumo, permitiendo con esto fijar criterios y políticas que tienden a regular las cantidades máximas y mínimas que se requieren, los plazos de aprovisionamiento, los puntos de pedido, siempre buscando la mayor rentabilidad para la compañía y la optimización de los procesos de producción.
         p Al establecer un sistema de gestión de inventarios, se busca equilibrar el riesgo de quedarse sin inventarios y almacenar una cantidad excesiva de inventario no operativo que afecte la caja y la rentabilidad de la compañía. Para lograr esto, es importante conocer las variables internas y externas de la empresa, el comportamiento histórico de los inventarios, los tiempos de entrega de los proveedores, el embalaje y distribución, el comportamiento del mercado, el tiempo de producción y la forma de distribución y pago de los clientes. Todo esto con el fin de equilibrar los procesos que integran la cadena productiva.
@@ -40,20 +40,20 @@
             .col-5
               img(src='@/assets/curso/temas/tema7/4.svg' alt='AvatarTop')
           h5.text-center Producción
-          p.text-center  De manera anticipada se adquieren materias primas, donde son procesadas por personal operativo el cual lo transforma creando un producto final, a través del cual se busca el lucro de la organización. 
+          p.text-center  De manera anticipada se adquieren materias primas, donde son procesadas por personal operativo, el cual lo transforma creando un producto final, a través del cual se busca el lucro de la organización. 
     p.mb-5(data-aos='fade-right') Partiendo de lo anterior, la administración de inventarios es creada para ordenar y producir las unidades de producto final que se realizaron con la solicitud de materias primas e insumos, donde el conjunto de estos artículos provisionados, son la clave de un proceso productivo que tiene inventarios en la entrada, el proceso y salida del ciclo de producción; lo cual se representa en la siguiente infografía: 
     TabsA.color-acento-botones.mb-5
       .tarjeta.p-4(titulo="Inventario de entrada " style="background-color: #F5E0E4")
         .row.justify-content-center.align-items-center
           .col-lg-9.mb-lg-0.mb-3
             h4 Inventario de entrada 
-            p Esta representado en todos los insumos o materias primas que se requiere para la creación de un producto.
+            p Está representado en todos los insumos o materias primas que se requiere para la creación de un producto.
           .col-lg-3.col-8: img(src='@/assets/curso/temas/tema7/5.svg', alt='')
       .tarjeta.p-4(titulo="Inventario en proceso" style="background-color: #F5E0E4")
         .row.justify-content-center.align-items-center
           .col-lg-9.mb-lg-0.mb-3
             h4 Inventario en proceso
-            p La integración de insumos y materias primas (proceso productivo) para la creación del articulo o producto, donde es procesado por maquinas y mano de obra operativa. 
+            p La integración de insumos y materias primas (proceso productivo) para la creación del artículo o producto, donde es procesado por máquinas y mano de obra operativa. 
           .col-lg-3.col-8: img(src='@/assets/curso/temas/tema7/6.svg', alt='')
       .tarjeta.p-4(titulo="Inventario de salida" style="background-color: #F5E0E4")
         .row.justify-content-center.align-items-center
@@ -89,13 +89,13 @@
                   .col-lg-6.mb-lg-0.mb-3
                     h4
                       span.color-acento-contenido Inventarios de producto terminado
-                    p Cuando se tiene las unidades de producto terminado estas deben ser contadas y verificadas para entrega, según el requerimiento inicial desde la planeación y continuar su curso a la parte logística.
+                    p Cuando se tiene las unidades de producto terminado, estas deben ser contadas y verificadas para entrega, según el requerimiento inicial, desde la planeación y continuar su curso a la parte logística.
                   .col-lg-6.col-8: img(src='@/assets/curso/temas/tema7/11.png', alt='')
                 .row.justify-content-center.mb-5
                   .col-lg-6.mb-lg-0.mb-3
                     h4
                       span.color-acento-contenido Inventarios de material empaque y embalaje (logístico)
-                    p Después de tener el producto terminado es necesario realiza proceso de empaque, etiquetado y puesta de códigos de barras; donde se identificará la descripción de talla color para alistar los pedidos a donde se realizarán los debidos despachos según los requerimientos comerciales a los puntos de ventas.
+                    p Después de tener el producto terminado, es necesario realiza proceso de empaque, etiquetado y puesta de códigos de barras; donde se identificará la descripción de talla color para alistar los pedidos, a donde se realizarán los debidos despachos según los requerimientos comerciales a los puntos de ventas.
                   .col-lg-6.col-8: img(src='@/assets/curso/temas/tema7/12.png', alt='')
     .row.justify-content-center.mb-5
       .col-lg-7.mb-lg-0.mb-3
@@ -114,7 +114,7 @@
           li.d-flex
             .lista-ol--cuadro__vineta(style="background-color: #9B1F36 ")
               span 1
-            p.mb-0 #[b Determinísticos:] basados en la demanda del producto y el plazo de entrega es constante y conocido, además el precio por unidad es constante e independiente del tamaño del pedido y del nivel de inventarios. Las entradas a bodega deben ser por lotes o pedidos constantes igual que el costo por pedir.
+            p.mb-0 #[b Determinísticos:] basados en la demanda del producto y el plazo de entrega es constante y conocido, además el precio por unidad es constante e independiente del tamaño del pedido y del nivel de inventarios. Las entradas a bodega deben ser por lotes o pedidos constantes, igual que el costo por pedir.
           li.d-flex
             .lista-ol--cuadro__vineta(style="background-color: #9B1F36 ")
               span 2
@@ -158,7 +158,7 @@
                   h4.mb-1 Métodos de Sistemas de Inventarios
                   p.mb-0.text-small Para ampliar los conceptos sobre los métodos mencionados, consulte los ejemplos que encuentra en el documento.
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="https://docs.google.com/document/d/1wD3oByzOhsH4c0oWnUb4DWNBc0hmCOhrMDWG0-nCtyo/edit?usp=sharing" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('downloads/metodos_sistemas_inventarios.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
     .titulo-icono.mb-4
@@ -200,13 +200,13 @@
                   .col-lg-6.mb-lg-0.mb-3
                     h4
                       span.color-acento-contenido Inventarios de mercadería
-                    p Este tipo de inventario se utilizan con el fin de mantener stock de inventarios para la venta en el caso que los productos que ofrecemos se venden permanentemente, lo cuales se tiene almacenados como inventarios de respaldo a las ventas; donde mantener cantidades en almacenamiento agilizan el proceso de ventas y facilitan el cumplimiento de las órdenes de compra de los clientes.
+                    p Este tipo de inventario se utilizan con el fin de mantener #[em stock] de inventarios para la venta en el caso que los productos que ofrecemos se venden permanentemente, lo cuales se tiene almacenados como inventarios de respaldo a las ventas; donde mantener cantidades en almacenamiento agilizan el proceso de ventas y facilitan el cumplimiento de las órdenes de compra de los clientes.
                   .col-lg-6.col-8: img(src='@/assets/curso/temas/tema7/21.svg', alt='')
     .titulo-icono.mb-4
       .titulo-icono__texto: h4.text-white.mb-0 Finalidad de los tipos de inventarios
     .row.justify-content-center.mb-5
       .col-lg-4.mb-lg-0.mb-3
-        p Los inventarios permiten que las empresas tengan un stock y así evitar el desabastecimiento de productos, por lo tanto, su finalidad se traduce en: 
+        p Los inventarios permiten que las empresas tengan un #[em stock] y así evitar el desabastecimiento de productos, por lo tanto, su finalidad se traduce en: 
         h4: span.color-acento-contenido Rentabilidad y productividad
         p Son dos beneficios importantes que se derivan de una adecuada gestión de materiales en una empresa. Al cubrir eficientemente las necesidades de materiales para la producción o manufactura, se pueden alcanzar los objetivos de abastecimiento de bienes y materiales. Esto facilita la creación de productos que satisfagan las necesidades y requerimientos de los clientes, lo que a su vez contribuye a mejorar la rentabilidad y la productividad de la empresa.
       .col-lg-4.col-8.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema7/22.png', alt='')
@@ -265,14 +265,14 @@
           ul.lista-ul--color
             li.d-flex
               i.fas.fa-tshirt(style="color: #9B1F36 ")
-              p.mb-0 #[span.color-acento-contenido.fw-bold Demanda independiente:] se determina directamente por el comportamiento del mercado analizando datos históricos, de los productos vendidos o facturados como respuesta al comportamiento de los clientes.
+              p.mb-0 #[span.color-acento-contenido.fw-bold Demanda independiente:] se determina directamente por el comportamiento del mercado, analizando datos históricos, de los productos vendidos o facturados como respuesta al comportamiento de los clientes.
             li.d-flex
               i.fas.fa-tshirt(style="color: #9B1F36 ")
               p.mb-0 #[span.color-acento-contenido.fw-bold Demanda dependiente:] se relaciona de manera directa con los insumos almacenados en los inventarios, en estos no se mantienen inventarios de productos terminados, porque depende de algunos proveedores para culminar los procesos, hasta obtener el producto final para realizar su respectiva comercialización.
       .col-lg-4.col-8: img(src='@/assets/curso/temas/tema7/25.png', alt='')
     .titulo-icono.mb-4
         .titulo-icono__texto: h4.text-white.mb-0 Lote óptimo
-    p Este método procura calcular las unidades óptimas dentro de un lote de producción, calculando de manera premeditada los costos de gestión y mantenimiento mínimos, de acuerdo con el flujo de unidades vendidas. El método se fundamenta en datos históricos o supuestos comportamientos a nivel de la experiencia del profesional encargado, donde inicialmente se tiene en cuenta el periodo de entrega en complemento al tiempo que transcurre entre la emisión de la orden de compra y recepción de la entrega del pedido, donde no se tiene en cuenta el stock del inventario ni beneficios o costos por el mantener un inventario almacenado.
+    p Este método procura calcular las unidades óptimas dentro de un lote de producción, calculando de manera premeditada los costos de gestión y mantenimiento mínimos, de acuerdo con el flujo de unidades vendidas. El método se fundamenta en datos históricos o supuestos comportamientos a nivel de la experiencia del profesional encargado, donde inicialmente se tiene en cuenta el periodo de entrega en complemento al tiempo que transcurre entre la emisión de la orden de compra y recepción de la entrega del pedido, donde no se tiene en cuenta el #[em stock] del inventario ni beneficios o costos por el mantener un inventario almacenado.
       br
       br
       | #[span.color-acento-contenido.fw-bold Este método procura determinar el volumen óptimo de pedido que suponga unos costes de gestión totales mínimos], es decir, que la suma de los costes de pedido más los costes de mantenimiento, sea lo más baja posible (ver figura 8).
@@ -283,10 +283,10 @@
             h5 Figura 8.
             span  Ejemplo de lote óptimo
           img(src='@/assets/curso/temas/tema7/26.svg', alt='La figura muestra el lote óptimo, el cual busca calcular la cantidad óptima de unidades en un lote de producción. En esta figura se considera el tiempo de entrega y el periodo que transcurre desde la emisión de la orden de compra hasta la recepción del pedido. No se toman en cuenta el inventario en stock ni los beneficios o costos asociados con mantener un inventario almacenado. El objetivo es determinar el volumen de pedido que resulte en los costos totales más bajos, teniendo en cuenta tanto los costos de pedido como los costos de mantenimiento.')
-    p.mb-5(data-aos='fade-right') Cuando se implementan o desarrollan las teorías planteadas por profesionales que tienen experiencia, la gráfica queda con la expresión de una sierra. El grafico debe ser planteado por los periodos en que el producto tiene los comportamientos, bien sea por trimestres, semanas o meses.
+    p.mb-5(data-aos='fade-right') Cuando se implementan o desarrollan las teorías planteadas por profesionales que tienen experiencia, la gráfica queda con la expresión de una sierra. El grafico, debe ser planteado por los periodos en que el producto tiene los comportamientos, bien sea por trimestres, semanas o meses.
     .row.justify-content-center.mb-5
       .col-lg-8.mb-lg-0.mb-3
-        p Al tener lotes con cantidades mínimas la expresión que arroja la gráfica es de mayor rotación de inventarios de salidas como de entradas de las unidades, cuando el lote es de cantidades grandes la expresión del grafico es de movimientos lentos en las entradas y salidas de los reportes gráficos.
+        p Al tener lotes con cantidades mínimas la expresión que arroja la gráfica es de mayor rotación de inventarios de salidas como de entradas de las unidades, cuando el lote es de cantidades grandes la expresión del grafico, es de movimientos lentos en las entradas y salidas de los reportes gráficos.
         .row.justify-content-center.mb-5.g-0
           .col-lg-6
             .p-5.border-3.h-100(style="background-color: #F5E6E9;border: 0.5px solid #9B1F36 ")
@@ -399,14 +399,14 @@
     Separador 
     #t_7_4.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 7.4 Flujo de inventarios temporales #[em (STOCK)]
-    p.mb-5(data-aos='fade-right') El stock de inventarios esta dado a las existencias de unidades o mercancías que se almacenan, bien sea destinados a completar un producto o unidades que serán destinadas a un cliente por una venta realizada. Se consideran stocks, los inventarios de materiales e insumos que se requieren para la producción manufacturera de un producto tales como telas, botones, hilos etc.
+    p.mb-5(data-aos='fade-right') El #[em stock] de inventarios esta dado a las existencias de unidades o mercancías que se almacenan, bien sea destinados a completar un producto o unidades que serán destinadas a un cliente por una venta realizada. Se consideran #[em stocks], los inventarios de materiales e insumos que se requieren para la producción manufacturera de un producto tales como telas, botones, hilos etc.
     .row.justify-content-center.mb-5.g-0
       .col-lg-4: img(src='@/assets/curso/temas/tema7/31.png', alt='')
       .col-lg-8
         .p-5(style="background-color: #D2E1F1").h-100.d-flex.align-items-center
-          p.mb-0 En la gestión de inventarios, también se consideran los stocks en proceso, que incluyen las prendas que están siendo fabricadas en los módulos o líneas de producción, ya sea que estén por terminar la confección, que necesiten ser empacadas o que deban tener etiquetas agregadas. Asimismo, se debe considerar el producto terminado, que se almacena en un centro de distribución hasta que se realice el proceso de #[em packing] (alistamiento) de la orden de pedido del cliente. Posteriormente, se lleva a cabo el proceso logístico hasta la entrega al cliente y el proceso comercial de pago por adquirir el producto.
+          p.mb-0 En la gestión de inventarios, también se consideran los #[em stocks] en proceso, que incluyen las prendas que están siendo fabricadas en los módulos o líneas de producción, ya sea que estén por terminar la confección, que necesiten ser empacadas o que deban tener etiquetas agregadas. Asimismo, se debe considerar el producto terminado, que se almacena en un centro de distribución hasta que se realice el proceso de #[em packing] (alistamiento) de la orden de pedido del cliente. Posteriormente, se lleva a cabo el proceso logístico hasta la entrega al cliente y el proceso comercial de pago por adquirir el producto.
     .titulo-icono.mb-4
-      .titulo-icono__texto: h4.text-white.mb-0 Control de stock
+      .titulo-icono__texto: h4.text-white.mb-0 Control de #[em stock]
     .row.justify-content-center.mb-5
       .col-lg-8.mb-lg-0.mb-3
         p El control de inventarios #[span.color-acento-contenido.fw-bold es fundamental para determinar la cantidad óptima de artículos que se deben almacenar y para categorizarlos de manera ordenada en cada espacio de la compañía.] Esto implica ubicar los artículos en una unidad de suministros dentro de la empresa para facilitar su ubicación.
@@ -426,7 +426,7 @@
         h5 
           span.color-acento-contenido  Es planteada por los gerentes de las compañías la siguiente pregunta: ¿Cuánto debe pedir la compañía y cuándo?
 
-        p La planeación adoptada por la compañía suele incluir las referencias y las cantidades proyectadas para las ventas, lo que permite determinar el consumo de insumos y las herramientas necesarias para la ejecución de la colección en las plantas de producción. De esta manera, se pueden integrar los componentes de cada prenda y alcanzar el objetivo final de crear productos de óptima calidad con la cantidad adecuada de unidades para surtir los almacenes y generar ventas. La figura 10 ilustra este proceso.
+        p La planeación adoptada por la compañía suele incluir las referencias y las cantidades proyectadas para las ventas, lo que permite determinar el consumo de insumos y las herramientas necesarias para la ejecución de la colección en las plantas de producción. De esta manera, se pueden integrar los componentes de cada prenda y alcanzar el objetivo final de crear productos de óptima calidad con la cantidad adecuada de unidades para surtir los almacenes y generar ventas. La figura 11 ilustra este proceso.
       .col-lg-4.col-8: img(src='@/assets/curso/temas/tema7/35.png', alt='')
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
       h5 Figura 11.
@@ -528,11 +528,11 @@
               h4 El costo de los pedidos
               p Se refiere a los costos asociados con la solicitud de un producto por parte de un cliente, ya sea a través de una compra física o por otros medios. Si la empresa no tiene el producto en su inventario, será necesario traerlo de otro punto de venta o proveedor, lo que generará costos adicionales para la compañía.
             .col-md-4: img(src='@/assets/curso/temas/tema7/51.png', alt='')
-    p.mb-5(data-aos='fade-right') La cantidad óptima del nivel de stock de inventarios se calcula buscando reducir el costo total de mantenimiento del inventario y determinando un modelo de cantidad económica sostenible para la empresa. Esto se hace a través del cálculo de la frecuencia de intervalos de inventario de acuerdo con la rotación de unidades por períodos determinados, como semanas, meses, trimestres o semestres del año.
+    p.mb-5(data-aos='fade-right') La cantidad óptima del nivel de #[em stock] de inventarios se calcula buscando reducir el costo total de mantenimiento del inventario y determinando un modelo de cantidad económica sostenible para la empresa. Esto se hace a través del cálculo de la frecuencia de intervalos de inventario de acuerdo con la rotación de unidades por períodos determinados, como semanas, meses, trimestres o semestres del año.
     Separador 
     #t_7_5.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 7.6 Normas técnicas (método de valoración de inventarios)
-    p.mb-5(data-aos='fade-right') Los métodos de valoración de inventarios están ligados a procesos contables donde determina el valor del inventario total y al mismo tiempo el informe discriminando cada unidad que lo compone, su valor en pesos; donde aporta metodologías de rotación y cálculos de fluctuación para toma de decisiones frente a los inventarios obsoletos o sin uso alguno.
+    p.mb-5(data-aos='fade-right') Los métodos de valoración de inventarios están ligados a procesos contables, donde determina el valor del inventario total y al mismo tiempo el informe discriminando cada unidad que lo compone, su valor en pesos; donde aporta metodologías de rotación y cálculos de fluctuación para toma de decisiones frente a los inventarios obsoletos o sin uso alguno.
     .row.justify-content-center.mb-5
       .col-lg-8.mb-lg-0.mb-3
         .titulo-icono.mb-4
@@ -577,7 +577,7 @@
       .titulo-icono__texto: h4.text-white.mb-0 Sistema de inventario continuo
     .row.justify-content-center.mb-5
       .col-lg-8.mb-lg-0.mb-3
-        p El sistema de inventario continuo implica la contabilización en tiempo real de las operaciones de compras o ventas mediante el sistema de inventario final, en comparación con los registros de conteo físico donde se determinan los inventarios faltantes y las existencias comparando la disponibilidad actual y reflejando los incrementos de inventario.
+        p El sistema de inventario continuo implica la contabilización en tiempo real de las operaciones de compras o ventas mediante el sistema de inventario final, en comparación con los registros de conteo físico, donde se determinan los inventarios faltantes y las existencias, comparando la disponibilidad actual y reflejando los incrementos de inventario.
         .p-4(style="background-color: #D2E1F1 ")
           p.mb-0 El inventario continuo se utiliza para monitorear los costos que superan el incremento de valor promedio establecido según los datos históricos. Además, produce informes de manera oportuna para la toma de decisiones y evitar el desbordamiento de las unidades y tener un control adecuado de los espacios disponibles en la bodega de suministros.
       .col-lg-4.col-8: img(src='@/assets/curso/temas/tema7/59.png', alt='')

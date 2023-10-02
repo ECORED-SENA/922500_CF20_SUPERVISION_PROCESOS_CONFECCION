@@ -8,10 +8,10 @@
       h1 ISO 9000 Organización Internacional de Normalización
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-3.col-8.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema4/1.svg', alt='')
-      .col-lg-9: p.mb-0 A través de los tiempos cuando dos o varias compañías u organizaciones tenían la intención de hacer negocios, se analizaban cada una, las que fungían de clientes y las que a su vez jugaban el rol de proveedores, también hacían parte de esta ecuación cuando se trataba de hacer alianzas o sociedades. Se solicitaba información de todas las partes sobre aspectos que son importantes en una empresa ideal, como se puede ver a continuación:
+      .col-lg-9: p.mb-0 A través de los tiempos, cuando dos o varias compañías u organizaciones tenían la intención de hacer negocios, se analizaban cada una, las que fungían de clientes y las que a su vez jugaban el rol de proveedores, también hacían parte de esta ecuación cuando se trataba de hacer alianzas o sociedades. Se solicitaba información de todas las partes sobre aspectos que son importantes en una empresa ideal, como se puede ver a continuación:
     h4.text-center.mb-5: span.color-acento-contenido.fw-bold Aspectos importantes en una empresa ideal
     .row.justify-content-center.mb-5
-      .col-xl-3.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
+      .col-xl-3.col-lg-6.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
@@ -31,7 +31,7 @@
               li
                 i.fas.fa-tshirt(style="color: #12263F") 
                 | Programas de mejoramiento y reconocimientos.
-      .col-xl-3.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
+      .col-xl-3.col-lg-6.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
@@ -51,7 +51,7 @@
               li
                 i.fas.fa-tshirt(style="color: #12263F") 
                 | Cumplimiento y portafolio de servicios.
-      .col-xl-3.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
+      .col-xl-3.col-lg-6.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
@@ -68,7 +68,7 @@
               li
                 i.fas.fa-tshirt(style="color: #12263F") 
                 | Información pertinente sobre máquinas y herramientas.
-      .col-xl-3.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
+      .col-xl-3.col-lg-6.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure

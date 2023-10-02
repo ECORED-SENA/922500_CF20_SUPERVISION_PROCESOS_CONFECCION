@@ -15,7 +15,7 @@
       h5 Figura 2.
       span Sistema de Gestión de Calidad
     .row.justify-content-center.mb-5
-      .col-lg-7.col-8: img(src='@/assets/curso/temas/tema3/2.svg', alt='') 
+      .col-lg-7.col-8: img(src='@/assets/curso/temas/tema3/2.svg', alt='La figura proporciona una explicación de los conceptos de sistema, gestión y calidad. Un sistema es un conjunto de partes que interactúan entre sí con un objetivo común, manteniendo una comunicación eficiente y operando a la misma velocidad. La gestión implica llevar a cabo trámites para lograr metas y administrar recursos. Por su parte, la calidad se relaciona con el cumplimiento de las especificaciones y requisitos acordados y esperados.') 
     p.mb-5(data-aos='fade-right') De esta manera, se puede decir que el Sistema de Gestión de Calidad - SGC (ver figura 2) es la relación de todas las partes interesadas de la compañía (todas), con el fin de obtener resultados óptimos, y esperados por el cliente, satisfaciendo todas las necesidades y expectativas.
     .row.justify-content-center.mb-5
       .col-lg-8.mb-lg-0.mb-3
@@ -91,7 +91,7 @@
           p.mb-0 El dinero es un factor importante en el mejoramiento, pero para implementar un sistema de gestión de calidad (SGC) no se requieren sumas elevadas. La capacitación del personal no es costosa ni difícil, y existen #[em software] diseñados para documentar y llevar registros a precios asequibles. Los indicadores y formatos se pueden crear en Excel y Word. Lo importante es que el SGC cumpla con la misión del sistema.
     h4 
       span.color-acento-contenido b) Equipos y logística
-    p Inicialmente se debe tener en cuenta que sin máquinas e infraestructura no es posible tener una planta de producción, este equipo y estos edificios deben ser coherentes con la facturación esperada y con la capacidad instalada. Si el SGC va a coordinar y orientar todas las áreas, se va a encargar de que haya coherencia en el sistema, y dicte normativas de acuerdo con las dimensiones de la compañía. Toda la manera como funcione esta área y como se le haga el respectivo mantenimiento, está dentro del sistema de gestión de calidad.
+    p Inicialmente, se debe tener en cuenta que sin máquinas e infraestructura no es posible tener una planta de producción, este equipo y estos edificios deben ser coherentes con la facturación esperada y con la capacidad instalada. Si el SGC va a coordinar y orientar todas las áreas, se va a encargar de que haya coherencia en el sistema, y dicte normativas de acuerdo con las dimensiones de la compañía. Toda la manera como funcione esta área y como se le haga el respectivo mantenimiento, está dentro del sistema de gestión de calidad.
     .row.justify-content-center.mb-5
       .col-lg-8.mb-lg-0.mb-3
         h4: span.color-acento-contenido c) Competencias y experiencia
@@ -135,13 +135,13 @@
           h5 Figura 4.
           span Descripción de una situación, como cumplimiento de una política.
         .row.justify-content-center.mb-5
-          .col-lg-8: img(src='@/assets/curso/temas/tema3/15.svg', alt='')
+          .col-lg-8: img(src='@/assets/curso/temas/tema3/15.svg', alt='La figura describe una situación que implica el cumplimiento de una política. A través de la detección de no conformidades, se realiza un análisis de las causas y se establece una acción correctiva. Posteriormente, se verifica la eficacia de dicha acción: si se ha solucionado el problema, se cierra la no conformidad; de lo contrario, se realiza un nuevo análisis de las causas.')
     h4: span.color-acento-contenido f) Objetivos de la calidad
     .row.justify-content-center.mb-5.g-0
       .col-lg-4: img(src='@/assets/curso/temas/tema3/16.jpg', alt='')
       .col-lg-8
         .p-5(style="background-color: #D2E1F1").h-100.d-flex.align-items-center
-          p.mb-0 Como último elemento importante al implementar un SGC, se encuentran los objetivos hacía donde se dirige la compañía. Es imposible dimensionar todo un movimiento de áreas y departamentos sin tener claro hacia dónde se dirigen y cuáles son las metas trazadas y presupuestadas. Además, es sobre el alcance de los objetivos donde se mide si la gesión realmente sirvió.
+          p.mb-0 Como último elemento importante al implementar un SGC, se encuentran los objetivos hacia donde se dirige la compañía. Es imposible dimensionar todo un movimiento de áreas y departamentos sin tener claro hacia dónde se dirigen y cuáles son las metas trazadas y presupuestadas. Además, es sobre el alcance de los objetivos donde se mide si la gestión realmente sirvió.
     p.mb-5(data-aos='fade-right') Los objetivos de la empresa relacionados con la calidad pueden ser la minimización o eliminación de las causas de defectos, la mejora del nivel de satisfacción de los clientes, la mejora de los costos y la productividad. En general, se trata de mejoras. Estos objetivos pueden ser evaluados y nombrados como objetivos SMART. A continuación se pueden ver:
     .row.justify-content-center.mb-5
       .col-lg-3.mb-lg-0.mb-3
@@ -156,7 +156,7 @@
           .row.justify-content-center.mb-3
             .col-5
               img(src='@/assets/curso/temas/tema3/18.svg' alt='AvatarTop')
-          h4.text-center #[em Mesurable]/ meddible
+          h4.text-center #[em Mesurable]/ medible
           p.text-center El objetivo tiene que tener la cualidad de ser medible para poderlo valorar frente a los resultados esperados.
       .col-lg-3.mb-lg-0.mb-3
         .tarjeta.p-4(style="background-color: #FFA884 ").h-100
@@ -222,7 +222,7 @@
           .col-md-3: img(src='@/assets/curso/temas/tema3/21.svg', alt='')
         .row(titulo="Paso 2")
           .col-md-8.mb-4.mb-md-0
-            p Por medio del SGC se visualiza de manera más especifica que procesos se realizan, y se les puede hacer un mejor escrutinio y análisis, y por consiguiente actuar sobre ellos con programas de mejoramiento.
+            p Por medio del SGC se visualiza de manera más específica que procesos se realizan, y se les puede hacer un mejor escrutinio y análisis, y por consiguiente actuar sobre ellos con programas de mejoramiento.
           .col-md-3: img(src='@/assets/curso/temas/tema3/22.svg', alt='')
         .row(titulo="Paso 3")
           .col-md-8.mb-4.mb-md-0

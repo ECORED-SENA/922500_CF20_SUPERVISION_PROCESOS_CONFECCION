@@ -25,7 +25,7 @@
         p Todos estos actores de alguna manera participan en la elaboración del listado de requisitos o especificaciones que hay que cumplir y que finalmente van a satisfacer necesidades y expectativas.
           br
           br
-          |Al interior de todas las organizaciones existen estructuras jerárquicas que son responsables de diferentes misiones. En el tema de calidad, a esa estructura, habitualmente se le denomina el departamento de calidad, o el área de calidad, o los responsables del SGC, de esa manera, sin excluir que “la calidad es responsabilidad de todos “, se asignan responsabilidades específicas de acuerdo con las funciones de cada uno. 
+          |Al interior de todas las organizaciones existen estructuras jerárquicas que son responsables de diferentes misiones. En el tema de calidad, a esa estructura, habitualmente se le denomina el departamento de calidad, o el área de calidad, o los responsables del SGC, de esa manera, sin excluir que “la calidad es responsabilidad de todos” , se asignan responsabilidades específicas de acuerdo con las funciones de cada uno. 
     p.mb-5(data-aos='fade-right') A manera de ejemplo, se mencionan algunos cargos con responsabilidades respecto a la calidad:
     .tarjeta.bg-card.p-5.mb-5
       SlyderA(tipo='b')
@@ -285,10 +285,10 @@
           SlyderA(tipo='b')
             div
               h4 Internas o de primera parte: 
-              p Son las auditorías que programa y ejecuta la organización sujeta al plan de mejoramiento, son responsables los representantes de la gerencia y los líderes del SGC; al interior de la empresa se definen las áreas, y los procesos que van a ser intervenidos, y que documentos se van a aprovechar para dejar registros de ésta auditoría. Normalmente este ejercicio entra a ser parte de las actividades habituales de la empresa, sin embargo, en muchas organizaciones se realiza, solo en vísperas de recibir una auditoría externa.
+              p Son las auditorías que programa y ejecuta la organización sujeta al plan de mejoramiento, son responsables los representantes de la gerencia y los líderes del SGC; al interior de la empresa se definen las áreas, y los procesos que van a ser intervenidos, y qué documentos se van a aprovechar para dejar registros de esta auditoría. Normalmente, este ejercicio entra a ser parte de las actividades habituales de la empresa, sin embargo, en muchas organizaciones se realiza, solo en vísperas de recibir una auditoría externa.
             div
               h4 Externas:
-              p Las auditorías que realiza una entidad diferente a la misma empresa u organización son las que se denominan como externas. Normalmente se realizan con el fin de obtener una certificación, debe ejecutarse de manera objetiva e imparcial, y la debe ejecutar un equipo de trabajo que conozca la normatividad, y sea especialista en el conocimiento de los procesos que se van a auditar.
+              p Las auditorías que realiza una entidad diferente a la misma empresa u organización son las que se denominan como externas. Normalmente, se realizan con el fin de obtener una certificación, debe ejecutarse de manera objetiva e imparcial, y la debe ejecutar un equipo de trabajo que conozca la normatividad, y sea especialista en el conocimiento de los procesos que se van a auditar.
       .col-lg-4.col-8: img(src='@/assets/curso/temas/tema5/9.png', alt='')
     .titulo-icono.mb-4
       .titulo-icono__texto: h4.text-white.mb-0 Análisis y evaluación 

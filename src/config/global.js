@@ -195,7 +195,7 @@ export default {
     },
     {
       tema: 'Métodos de inventarios',
-      referencia: 'SENA. (2021). <em>Métodos de inventarios.</em> ',
+      referencia: 'SENA. (2021). <em>Métodos de sistemas de inventarios.</em> ',
       tipo: 'PDF',
       descarga: '/downloads/Anexo_01.pdf',
     },
@@ -312,9 +312,9 @@ export default {
       significado: 'trabajar en conjunto, cooperación.',
     },
     {
-      termino: 'Stock inventario',
+      termino: '<em>Stock</em> inventario',
       significado:
-        'el stock o inventario de existencias es el conjunto de materiales y/o mercancías que se almacenan, ya sean destinados a completar el proceso productivo o tengan como destino la venta al cliente.',
+        'el <em>stock</em> o inventario de existencias es el conjunto de materiales y/o mercancías que se almacenan, ya sean destinados a completar el proceso productivo o tengan como destino la venta al cliente.',
     },
     {
       termino: 'Ventas',
@@ -338,7 +338,7 @@ export default {
       referencia:
         'Martínez Robles, A. (2013). <em>Capítulo II Los Inventarios. Control de inventario con análisis de la demanda para la empresa “Sport B”.</em> [Tesis de grado] Oficina General del sistema de Bibliotecas UNMSM.',
       link:
-        'http://w4.escolapia.cat/terrassa/aulavirtual/assignat/empresa/Inventaris_esp.pdf',
+        'https://sisbib.unmsm.edu.pe/bibvirtualdata/Tesis/Basic/martinez_ra/cap03.pdf',
     },
     {
       referencia:
@@ -353,9 +353,9 @@ export default {
     },
     {
       referencia:
-        'Universidad Continental. (2017). <em>¿Qué es la certificación ISO y por qué es importante? </em>[Articulo Blog]. ',
+        'Universidad Continental. (2019). ISO 9001: <em>¿Qué es y por qué es importante para la calidad educativa?</em> [Articulo Blog].  ',
       link:
-        'https://ucontinental.edu.pe/logros-uc/iso-9001/la-certificacion-iso-importante/ ',
+        'https://blogs.ucontinental.edu.pe/iso-9001-que-es-y-por-que-es-importante-para-la-calidad-educativa/impacto-positivo/',
     },
   ],
   creditos: [

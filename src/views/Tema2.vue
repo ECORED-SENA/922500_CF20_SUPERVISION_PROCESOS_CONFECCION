@@ -101,11 +101,24 @@
                 i.fas.fa-tshirt(style="color: #9B1F36")
                 p.mb-0 Despilfarro de víveres y papelería: no hay una utilización idónea de estos recursos.
           .col-lg-4.col-8: img(src='@/assets/curso/temas/tema2/12.png', alt='')
-    .p-4.mb-4(style="background-color: #D2E1F1")
-          .row.justify-content-center.align-items-center
-            .col-lg-2.col-6: img(src="../assets/curso/temas/tema1/2.svg", alt="")
-            .col-lg-10
-              p.mb-0 Si interesa conocer más sobre este tema, se invita a consultar el material complementario, en donde se encontrará un vídeo informativo sobre el tema: #[b ¿Qué es la calidad?.]
+    //- .p-4.mb-4(style="background-color: #D2E1F1")
+    //-       .row.justify-content-center.align-items-center
+    //-         .col-lg-2.col-6: img(src="../assets/curso/temas/tema1/2.svg", alt="")
+    //-         .col-lg-10
+    //-           p.mb-0 Si interesa conocer más sobre este tema, se invita a consultar el material complementario, en donde se encontrará un vídeo informativo sobre el tema: #[b ¿Qué es la calidad?.]
+    .tarjeta.color-primario.p-3
+      .row.justify-content-around.align-items-center
+        .col-auto
+          img(src="@/assets/curso/temas/tema2/c1.svg").img65
+        .col
+          .row.justify-content-between.align-items-center
+            .col.mb-3.mb-sm-0
+              h4.mb-1 ¿Qué es la calidad?
+              p.mb-0.text-small Si interesa conocer más sobre este tema, se invita a consultar el material complementario, en donde se encontrará un vídeo informativo sobre el tema.
+            .col-sm-auto
+              a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=Qx80GpgUfag&ab_channel=SalvadorSantiago" target="_blank")
+                span Descargar
+                i.fas.fa-file-download
     .titulo-icono.mb-4
       .titulo-icono__texto: h4.text-white.mb-0 Elementos para una producción de calidad 
     p.mb-5(data-aos='fade-right') Para implementar acciones que conduzcan a una mejor producción con calidad, es necesario establecer una fuerza dinámica que sea la que orienta este plan. A continuación, se hace referencia a ese elemento:
@@ -132,7 +145,7 @@
             i.fas.fa-tshirt(style="color: #9B1F36")
             p.mb-0  Dinero necesario para financiar actividades que apoyen la producción cumpliendo requisitos.
       .col-lg-4.col-8: img(src='@/assets/curso/temas/tema2/13.png', alt='')   
-    p.mb-5(data-aos='fade-right') Todos estas inversiones o costos se deben comparar con los gastos, que genera no implementar programas de mejoramiento que permitan trabajar con calidad; es decir, cuánto cuesta trabajar sin calidad, cuánto es el valor que originan los defectos y no conformidades. 
+    p.mb-5(data-aos='fade-right') Todas estas inversiones o costos se deben comparar con los gastos, que genera no implementar programas de mejoramiento que permitan trabajar con calidad; es decir, cuánto cuesta trabajar sin calidad, cuánto es el valor que originan los defectos y no conformidades. 
       br
       br
       span.color-acento-contenido.fw-bold Aquí se presentan algunas irregularidades que significan costos, o sobrecostos en las empresas: 

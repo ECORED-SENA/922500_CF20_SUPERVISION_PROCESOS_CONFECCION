@@ -166,8 +166,12 @@ span
     left: 0
     top: 0
     transform: translate(-50%,10%)
+
 .crd_hover_txt .crd_hover_txt--body
-  transform: translateY(calc( 100% - 5rem))
+  @media (max-width: $bp-max-md)
+    transform: translateY(calc( 100% - 4.9rem))
+  &:hover
+    transform: translateY(calc( 0% + 1rem ))
 .cajon.color-acento-botones
   background-color: #D2E1F1
   &::before
