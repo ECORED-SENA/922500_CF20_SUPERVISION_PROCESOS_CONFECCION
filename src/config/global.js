@@ -340,12 +340,7 @@ export default {
       link:
         'https://sisbib.unmsm.edu.pe/bibvirtualdata/Tesis/Basic/martinez_ra/cap03.pdf',
     },
-    {
-      referencia:
-        'Martínez Robles, A. (2013). <em>Capítulo III Sistemas de Inventarios. Control de inventario con análisis de la demanda para la empresa “Sport B”.</em> [Tesis de grado] Oficina General del sistema de Bibliotecas UNMSM. ',
-      link:
-        'http://sisbib.unmsm.edu.pe/bibvirtualdata/tesis/basic/martinez_ra/cap03.pdf',
-    },
+
     {
       referencia:
         'Negocios, Marketing y Finanzas. (2019). <em>Tipos de inventarios.</em> yosoyempleo ',

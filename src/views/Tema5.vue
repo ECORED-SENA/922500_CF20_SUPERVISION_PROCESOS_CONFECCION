@@ -25,7 +25,7 @@
         p Todos estos actores de alguna manera participan en la elaboración del listado de requisitos o especificaciones que hay que cumplir y que finalmente van a satisfacer necesidades y expectativas.
           br
           br
-          |Al interior de todas las organizaciones existen estructuras jerárquicas que son responsables de diferentes misiones. En el tema de calidad, a esa estructura, habitualmente se le denomina el departamento de calidad, o el área de calidad, o los responsables del SGC, de esa manera, sin excluir que “la calidad es responsabilidad de todos” , se asignan responsabilidades específicas de acuerdo con las funciones de cada uno. 
+          |Al interior de todas las organizaciones existen estructuras jerárquicas que son responsables de diferentes misiones. En el tema de calidad, a esa estructura, habitualmente se le denomina el departamento de calidad, o el área de calidad, o los responsables del SGC, de esa manera, sin excluir que “la calidad es responsabilidad de todos”, se asignan responsabilidades específicas de acuerdo con las funciones de cada uno. 
     p.mb-5(data-aos='fade-right') A manera de ejemplo, se mencionan algunos cargos con responsabilidades respecto a la calidad:
     .tarjeta.bg-card.p-5.mb-5
       SlyderA(tipo='b')
