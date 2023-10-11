@@ -1,0 +1,14 @@
+<svg id="Grupo_1054918" data-name="Grupo 1054918" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="66.327" height="66.328" viewBox="0 0 66.327 66.328">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.092" y1="0.076" x2="0.811" y2="0.819" gradientUnits="objectBoundingBox">
+      <stop offset="0"/>
+      <stop offset="1" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path id="Trazado_736833" data-name="Trazado 736833" d="M33.164,0A33.164,33.164,0,1,1,0,33.164,33.164,33.164,0,0,1,33.164,0Z" fill="#f2642a"/>
+  <g id="numero-uno" transform="translate(5.742 5.742)">
+    <path id="Trazado_736842" data-name="Trazado 736842" d="M27.421,0A27.421,27.421,0,1,1,0,27.421,27.421,27.421,0,0,1,27.421,0Z" transform="translate(0 0)" fill="#ff6e33"/>
+    <path id="Trazado_736840" data-name="Trazado 736840" d="M236.318,152.212l-20.9-20.9H203.925v6.235L208,141.625v17.2L219.878,170.7A27.646,27.646,0,0,0,236.318,152.212Z" transform="translate(-182.249 -117.647)" opacity="0.49" fill="url(#linear-gradient)"/>
+    <path id="Trazado_736841" data-name="Trazado 736841" d="M215.416,131.311v27.515H208V137.546h-4.079v-6.235Z" transform="translate(-182.249 -117.647)" fill="#fff"/>
+  </g>
+</svg>
