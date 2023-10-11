@@ -336,7 +336,7 @@ export default {
     },
     {
       referencia:
-        'Martínez Robles, A. (2013). <em>Capítulo III Los Inventarios. Control de inventario con análisis de la demanda para la empresa “Sport B”.</em> [Tesis de grado] Oficina General del sistema de Bibliotecas UNMSM.',
+        'Martínez Robles, A. (2013). <em>Capítulo III Sistema de inventarios. Control de inventario con análisis de la demanda para la empresa “Sport B”.</em> [Tesis de grado] Oficina General del sistema de Bibliotecas UNMSM.',
       link:
         'https://sisbib.unmsm.edu.pe/bibvirtualdata/Tesis/Basic/martinez_ra/cap03.pdf',
     },
